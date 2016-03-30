@@ -1,0 +1,906 @@
+fileFormatVersion: 2
+guid: 5baf15c8754cc43fd86a4d5242ca4f6e
+timeCreated: 1459315470
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f0000001000000011000000120000001300000014000000150000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f0000006000000061000000620000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc0000000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000
+  assetHash:
+    serializedVersion: 2
+    Hash: f1315c75f9ff61fcf1706c4efab726db
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 13.310447, y: 4.1790824, z: 16.645388}
+      lookAt: {x: 2.0832455, y: 1.3137383, z: 0.81038564}
+      up: {x: -0.0844617, y: 0.98928016, z: -0.11912595}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Adonidia Palm, Christmas palm, Manila palm, Dwarf Royal
+    100002: Column
+    100004: Column 1
+    100006: Column 2
+    100008: Column 3
+    100010: Group 1
+    100012: Group 103
+    100014: Group 104
+    100016: Group 105
+    100018: Group 107
+    100020: Group 109
+    100022: Group 11
+    100024: Group 111
+    100026: Group 113
+    100028: Group 117
+    100030: Group 118
+    100032: Group 120
+    100034: Group 122
+    100036: Group 124
+    100038: Group 126
+    100040: Group 130
+    100042: Group 131
+    100044: Group 133
+    100046: Group 135
+    100048: Group 137
+    100050: Group 139
+    100052: Group 143
+    100054: Group 144
+    100056: Group 146
+    100058: Group 148
+    100060: Group 150
+    100062: Group 152
+    100064: Group 154
+    100066: Group 156
+    100068: Group 158
+    100070: Group 160
+    100072: Group 162
+    100074: Group 163
+    100076: Group 165
+    100078: Group 167
+    100080: Group 169
+    100082: Group 171
+    100084: Group 180
+    100086: Group 181
+    100088: Group 182
+    100090: Group 184
+    100092: Group 186
+    100094: Group 188
+    100096: Group 190
+    100098: Group 194
+    100100: Group 195
+    100102: Group 197
+    100104: Group 199
+    100106: Group 201
+    100108: Group 203
+    100110: Group 207
+    100112: Group 208
+    100114: Group 210
+    100116: Group 212
+    100118: Group 214
+    100120: Group 216
+    100122: Group 220
+    100124: Group 221
+    100126: Group 223
+    100128: Group 225
+    100130: Group 227
+    100132: Group 229
+    100134: Group 231
+    100136: Group 233
+    100138: Group 235
+    100140: Group 237
+    100142: Group 239
+    100144: Group 240
+    100146: Group 242
+    100148: Group 244
+    100150: Group 246
+    100152: Group 248
+    100154: Group 257
+    100156: Group 258
+    100158: Group 259
+    100160: Group 26
+    100162: Group 261
+    100164: Group 263
+    100166: Group 265
+    100168: Group 267
+    100170: Group 27
+    100172: Group 271
+    100174: Group 272
+    100176: Group 274
+    100178: Group 276
+    100180: Group 278
+    100182: Group 28
+    100184: Group 280
+    100186: Group 284
+    100188: Group 285
+    100190: Group 287
+    100192: Group 289
+    100194: Group 291
+    100196: Group 293
+    100198: Group 297
+    100200: Group 298
+    100202: Group 3
+    100204: Group 30
+    100206: Group 300
+    100208: Group 302
+    100210: Group 304
+    100212: Group 306
+    100214: Group 308
+    100216: Group 310
+    100218: Group 312
+    100220: Group 314
+    100222: Group 316
+    100224: Group 317
+    100226: Group 319
+    100228: Group 32
+    100230: Group 321
+    100232: Group 323
+    100234: Group 325
+    100236: Group 34
+    100238: Group 36
+    100240: Group 40
+    100242: Group 41
+    100244: Group 43
+    100246: Group 45
+    100248: Group 47
+    100250: Group 49
+    100252: Group 5
+    100254: Group 53
+    100256: Group 54
+    100258: Group 56
+    100260: Group 58
+    100262: Group 60
+    100264: Group 62
+    100266: Group 66
+    100268: Group 67
+    100270: Group 69
+    100272: Group 7
+    100274: Group 71
+    100276: Group 73
+    100278: Group 75
+    100280: Group 77
+    100282: Group 79
+    100284: Group 81
+    100286: Group 83
+    100288: Group 85
+    100290: Group 86
+    100292: Group 88
+    100294: Group 9
+    100296: Group 90
+    100298: Group 92
+    100300: Group 94
+    100302: halfleave
+    100304: halfleave 1
+    100306: halfleave 10
+    100308: halfleave 11
+    100310: halfleave 12
+    100312: halfleave 13
+    100314: halfleave 14
+    100316: halfleave 15
+    100318: halfleave 16
+    100320: halfleave 17
+    100322: halfleave 18
+    100324: halfleave 19
+    100326: halfleave 2
+    100328: halfleave 20
+    100330: halfleave 21
+    100332: halfleave 22
+    100334: halfleave 23
+    100336: halfleave 24
+    100338: halfleave 25
+    100340: halfleave 26
+    100342: halfleave 27
+    100344: halfleave 3
+    100346: halfleave 4
+    100348: halfleave 5
+    100350: halfleave 6
+    100352: halfleave 7
+    100354: halfleave 8
+    100356: halfleave 9
+    100358: manilafronnew
+    100360: manilafronnew 1
+    100362: manilafronnew 10
+    100364: manilafronnew 11
+    100366: manilafronnew 12
+    100368: manilafronnew 13
+    100370: manilafronnew 2
+    100372: manilafronnew 3
+    100374: manilafronnew 4
+    100376: manilafronnew 5
+    100378: manilafronnew 6
+    100380: manilafronnew 7
+    100382: manilafronnew 8
+    100384: manilafronnew 9
+    100386: mattrass
+    100388: mattrass 1
+    100390: mattrass 10
+    100392: mattrass 11
+    100394: mattrass 12
+    100396: mattrass 13
+    100398: mattrass 14
+    100400: mattrass 15
+    100402: mattrass 2
+    100404: mattrass 3
+    100406: mattrass 4
+    100408: mattrass 5
+    100410: mattrass 6
+    100412: mattrass 7
+    100414: mattrass 8
+    100416: mattrass 9
+    100418: OUTDOOR SET-2-
+    100420: OUTDOOR SET-2- 1
+    100422: OUTDOOR SET-2- 2
+    100424: OUTDOOR SET-2- 3
+    100426: P_trunck
+    100428: palmfronmanila
+    100430: palmfronmanila 1
+    100432: palmfronmanila 10
+    100434: palmfronmanila 11
+    100436: palmfronmanila 12
+    100438: palmfronmanila 13
+    100440: palmfronmanila 2
+    100442: palmfronmanila 3
+    100444: palmfronmanila 4
+    100446: palmfronmanila 5
+    100448: palmfronmanila 6
+    100450: palmfronmanila 7
+    100452: palmfronmanila 8
+    100454: palmfronmanila 9
+    100456: //RootNode
+    400000: Adonidia Palm, Christmas palm, Manila palm, Dwarf Royal
+    400002: Column
+    400004: Column 1
+    400006: Column 2
+    400008: Column 3
+    400010: Group 1
+    400012: Group 103
+    400014: Group 104
+    400016: Group 105
+    400018: Group 107
+    400020: Group 109
+    400022: Group 11
+    400024: Group 111
+    400026: Group 113
+    400028: Group 117
+    400030: Group 118
+    400032: Group 120
+    400034: Group 122
+    400036: Group 124
+    400038: Group 126
+    400040: Group 130
+    400042: Group 131
+    400044: Group 133
+    400046: Group 135
+    400048: Group 137
+    400050: Group 139
+    400052: Group 143
+    400054: Group 144
+    400056: Group 146
+    400058: Group 148
+    400060: Group 150
+    400062: Group 152
+    400064: Group 154
+    400066: Group 156
+    400068: Group 158
+    400070: Group 160
+    400072: Group 162
+    400074: Group 163
+    400076: Group 165
+    400078: Group 167
+    400080: Group 169
+    400082: Group 171
+    400084: Group 180
+    400086: Group 181
+    400088: Group 182
+    400090: Group 184
+    400092: Group 186
+    400094: Group 188
+    400096: Group 190
+    400098: Group 194
+    400100: Group 195
+    400102: Group 197
+    400104: Group 199
+    400106: Group 201
+    400108: Group 203
+    400110: Group 207
+    400112: Group 208
+    400114: Group 210
+    400116: Group 212
+    400118: Group 214
+    400120: Group 216
+    400122: Group 220
+    400124: Group 221
+    400126: Group 223
+    400128: Group 225
+    400130: Group 227
+    400132: Group 229
+    400134: Group 231
+    400136: Group 233
+    400138: Group 235
+    400140: Group 237
+    400142: Group 239
+    400144: Group 240
+    400146: Group 242
+    400148: Group 244
+    400150: Group 246
+    400152: Group 248
+    400154: Group 257
+    400156: Group 258
+    400158: Group 259
+    400160: Group 26
+    400162: Group 261
+    400164: Group 263
+    400166: Group 265
+    400168: Group 267
+    400170: Group 27
+    400172: Group 271
+    400174: Group 272
+    400176: Group 274
+    400178: Group 276
+    400180: Group 278
+    400182: Group 28
+    400184: Group 280
+    400186: Group 284
+    400188: Group 285
+    400190: Group 287
+    400192: Group 289
+    400194: Group 291
+    400196: Group 293
+    400198: Group 297
+    400200: Group 298
+    400202: Group 3
+    400204: Group 30
+    400206: Group 300
+    400208: Group 302
+    400210: Group 304
+    400212: Group 306
+    400214: Group 308
+    400216: Group 310
+    400218: Group 312
+    400220: Group 314
+    400222: Group 316
+    400224: Group 317
+    400226: Group 319
+    400228: Group 32
+    400230: Group 321
+    400232: Group 323
+    400234: Group 325
+    400236: Group 34
+    400238: Group 36
+    400240: Group 40
+    400242: Group 41
+    400244: Group 43
+    400246: Group 45
+    400248: Group 47
+    400250: Group 49
+    400252: Group 5
+    400254: Group 53
+    400256: Group 54
+    400258: Group 56
+    400260: Group 58
+    400262: Group 60
+    400264: Group 62
+    400266: Group 66
+    400268: Group 67
+    400270: Group 69
+    400272: Group 7
+    400274: Group 71
+    400276: Group 73
+    400278: Group 75
+    400280: Group 77
+    400282: Group 79
+    400284: Group 81
+    400286: Group 83
+    400288: Group 85
+    400290: Group 86
+    400292: Group 88
+    400294: Group 9
+    400296: Group 90
+    400298: Group 92
+    400300: Group 94
+    400302: halfleave
+    400304: halfleave 1
+    400306: halfleave 10
+    400308: halfleave 11
+    400310: halfleave 12
+    400312: halfleave 13
+    400314: halfleave 14
+    400316: halfleave 15
+    400318: halfleave 16
+    400320: halfleave 17
+    400322: halfleave 18
+    400324: halfleave 19
+    400326: halfleave 2
+    400328: halfleave 20
+    400330: halfleave 21
+    400332: halfleave 22
+    400334: halfleave 23
+    400336: halfleave 24
+    400338: halfleave 25
+    400340: halfleave 26
+    400342: halfleave 27
+    400344: halfleave 3
+    400346: halfleave 4
+    400348: halfleave 5
+    400350: halfleave 6
+    400352: halfleave 7
+    400354: halfleave 8
+    400356: halfleave 9
+    400358: manilafronnew
+    400360: manilafronnew 1
+    400362: manilafronnew 10
+    400364: manilafronnew 11
+    400366: manilafronnew 12
+    400368: manilafronnew 13
+    400370: manilafronnew 2
+    400372: manilafronnew 3
+    400374: manilafronnew 4
+    400376: manilafronnew 5
+    400378: manilafronnew 6
+    400380: manilafronnew 7
+    400382: manilafronnew 8
+    400384: manilafronnew 9
+    400386: mattrass
+    400388: mattrass 1
+    400390: mattrass 10
+    400392: mattrass 11
+    400394: mattrass 12
+    400396: mattrass 13
+    400398: mattrass 14
+    400400: mattrass 15
+    400402: mattrass 2
+    400404: mattrass 3
+    400406: mattrass 4
+    400408: mattrass 5
+    400410: mattrass 6
+    400412: mattrass 7
+    400414: mattrass 8
+    400416: mattrass 9
+    400418: OUTDOOR SET-2-
+    400420: OUTDOOR SET-2- 1
+    400422: OUTDOOR SET-2- 2
+    400424: OUTDOOR SET-2- 3
+    400426: P_trunck
+    400428: palmfronmanila
+    400430: palmfronmanila 1
+    400432: palmfronmanila 10
+    400434: palmfronmanila 11
+    400436: palmfronmanila 12
+    400438: palmfronmanila 13
+    400440: palmfronmanila 2
+    400442: palmfronmanila 3
+    400444: palmfronmanila 4
+    400446: palmfronmanila 5
+    400448: palmfronmanila 6
+    400450: palmfronmanila 7
+    400452: palmfronmanila 8
+    400454: palmfronmanila 9
+    400456: //RootNode
+    2300000: Column
+    2300002: Column 1
+    2300004: Column 2
+    2300006: Column 3
+    2300008: Group 1
+    2300010: Group 105
+    2300012: Group 107
+    2300014: Group 109
+    2300016: Group 11
+    2300018: Group 111
+    2300020: Group 113
+    2300022: Group 118
+    2300024: Group 120
+    2300026: Group 122
+    2300028: Group 124
+    2300030: Group 126
+    2300032: Group 131
+    2300034: Group 133
+    2300036: Group 135
+    2300038: Group 137
+    2300040: Group 139
+    2300042: Group 144
+    2300044: Group 146
+    2300046: Group 148
+    2300048: Group 150
+    2300050: Group 152
+    2300052: Group 154
+    2300054: Group 156
+    2300056: Group 158
+    2300058: Group 160
+    2300060: Group 163
+    2300062: Group 165
+    2300064: Group 167
+    2300066: Group 169
+    2300068: Group 171
+    2300070: Group 182
+    2300072: Group 184
+    2300074: Group 186
+    2300076: Group 188
+    2300078: Group 190
+    2300080: Group 195
+    2300082: Group 197
+    2300084: Group 199
+    2300086: Group 201
+    2300088: Group 203
+    2300090: Group 208
+    2300092: Group 210
+    2300094: Group 212
+    2300096: Group 214
+    2300098: Group 216
+    2300100: Group 221
+    2300102: Group 223
+    2300104: Group 225
+    2300106: Group 227
+    2300108: Group 229
+    2300110: Group 231
+    2300112: Group 233
+    2300114: Group 235
+    2300116: Group 237
+    2300118: Group 240
+    2300120: Group 242
+    2300122: Group 244
+    2300124: Group 246
+    2300126: Group 248
+    2300128: Group 259
+    2300130: Group 261
+    2300132: Group 263
+    2300134: Group 265
+    2300136: Group 267
+    2300138: Group 272
+    2300140: Group 274
+    2300142: Group 276
+    2300144: Group 278
+    2300146: Group 28
+    2300148: Group 280
+    2300150: Group 285
+    2300152: Group 287
+    2300154: Group 289
+    2300156: Group 291
+    2300158: Group 293
+    2300160: Group 298
+    2300162: Group 3
+    2300164: Group 30
+    2300166: Group 300
+    2300168: Group 302
+    2300170: Group 304
+    2300172: Group 306
+    2300174: Group 308
+    2300176: Group 310
+    2300178: Group 312
+    2300180: Group 314
+    2300182: Group 317
+    2300184: Group 319
+    2300186: Group 32
+    2300188: Group 321
+    2300190: Group 323
+    2300192: Group 325
+    2300194: Group 34
+    2300196: Group 36
+    2300198: Group 41
+    2300200: Group 43
+    2300202: Group 45
+    2300204: Group 47
+    2300206: Group 49
+    2300208: Group 5
+    2300210: Group 54
+    2300212: Group 56
+    2300214: Group 58
+    2300216: Group 60
+    2300218: Group 62
+    2300220: Group 67
+    2300222: Group 69
+    2300224: Group 7
+    2300226: Group 71
+    2300228: Group 73
+    2300230: Group 75
+    2300232: Group 77
+    2300234: Group 79
+    2300236: Group 81
+    2300238: Group 83
+    2300240: Group 86
+    2300242: Group 88
+    2300244: Group 9
+    2300246: Group 90
+    2300248: Group 92
+    2300250: Group 94
+    2300252: halfleave
+    2300254: halfleave 1
+    2300256: halfleave 10
+    2300258: halfleave 11
+    2300260: halfleave 12
+    2300262: halfleave 13
+    2300264: halfleave 14
+    2300266: halfleave 15
+    2300268: halfleave 16
+    2300270: halfleave 17
+    2300272: halfleave 18
+    2300274: halfleave 19
+    2300276: halfleave 2
+    2300278: halfleave 20
+    2300280: halfleave 21
+    2300282: halfleave 22
+    2300284: halfleave 23
+    2300286: halfleave 24
+    2300288: halfleave 25
+    2300290: halfleave 26
+    2300292: halfleave 27
+    2300294: halfleave 3
+    2300296: halfleave 4
+    2300298: halfleave 5
+    2300300: halfleave 6
+    2300302: halfleave 7
+    2300304: halfleave 8
+    2300306: halfleave 9
+    2300308: mattrass
+    2300310: mattrass 1
+    2300312: mattrass 10
+    2300314: mattrass 11
+    2300316: mattrass 12
+    2300318: mattrass 13
+    2300320: mattrass 14
+    2300322: mattrass 15
+    2300324: mattrass 2
+    2300326: mattrass 3
+    2300328: mattrass 4
+    2300330: mattrass 5
+    2300332: mattrass 6
+    2300334: mattrass 7
+    2300336: mattrass 8
+    2300338: mattrass 9
+    2300340: P_trunck
+    3300000: Column
+    3300002: Column 1
+    3300004: Column 2
+    3300006: Column 3
+    3300008: Group 1
+    3300010: Group 105
+    3300012: Group 107
+    3300014: Group 109
+    3300016: Group 11
+    3300018: Group 111
+    3300020: Group 113
+    3300022: Group 118
+    3300024: Group 120
+    3300026: Group 122
+    3300028: Group 124
+    3300030: Group 126
+    3300032: Group 131
+    3300034: Group 133
+    3300036: Group 135
+    3300038: Group 137
+    3300040: Group 139
+    3300042: Group 144
+    3300044: Group 146
+    3300046: Group 148
+    3300048: Group 150
+    3300050: Group 152
+    3300052: Group 154
+    3300054: Group 156
+    3300056: Group 158
+    3300058: Group 160
+    3300060: Group 163
+    3300062: Group 165
+    3300064: Group 167
+    3300066: Group 169
+    3300068: Group 171
+    3300070: Group 182
+    3300072: Group 184
+    3300074: Group 186
+    3300076: Group 188
+    3300078: Group 190
+    3300080: Group 195
+    3300082: Group 197
+    3300084: Group 199
+    3300086: Group 201
+    3300088: Group 203
+    3300090: Group 208
+    3300092: Group 210
+    3300094: Group 212
+    3300096: Group 214
+    3300098: Group 216
+    3300100: Group 221
+    3300102: Group 223
+    3300104: Group 225
+    3300106: Group 227
+    3300108: Group 229
+    3300110: Group 231
+    3300112: Group 233
+    3300114: Group 235
+    3300116: Group 237
+    3300118: Group 240
+    3300120: Group 242
+    3300122: Group 244
+    3300124: Group 246
+    3300126: Group 248
+    3300128: Group 259
+    3300130: Group 261
+    3300132: Group 263
+    3300134: Group 265
+    3300136: Group 267
+    3300138: Group 272
+    3300140: Group 274
+    3300142: Group 276
+    3300144: Group 278
+    3300146: Group 28
+    3300148: Group 280
+    3300150: Group 285
+    3300152: Group 287
+    3300154: Group 289
+    3300156: Group 291
+    3300158: Group 293
+    3300160: Group 298
+    3300162: Group 3
+    3300164: Group 30
+    3300166: Group 300
+    3300168: Group 302
+    3300170: Group 304
+    3300172: Group 306
+    3300174: Group 308
+    3300176: Group 310
+    3300178: Group 312
+    3300180: Group 314
+    3300182: Group 317
+    3300184: Group 319
+    3300186: Group 32
+    3300188: Group 321
+    3300190: Group 323
+    3300192: Group 325
+    3300194: Group 34
+    3300196: Group 36
+    3300198: Group 41
+    3300200: Group 43
+    3300202: Group 45
+    3300204: Group 47
+    3300206: Group 49
+    3300208: Group 5
+    3300210: Group 54
+    3300212: Group 56
+    3300214: Group 58
+    3300216: Group 60
+    3300218: Group 62
+    3300220: Group 67
+    3300222: Group 69
+    3300224: Group 7
+    3300226: Group 71
+    3300228: Group 73
+    3300230: Group 75
+    3300232: Group 77
+    3300234: Group 79
+    3300236: Group 81
+    3300238: Group 83
+    3300240: Group 86
+    3300242: Group 88
+    3300244: Group 9
+    3300246: Group 90
+    3300248: Group 92
+    3300250: Group 94
+    3300252: halfleave
+    3300254: halfleave 1
+    3300256: halfleave 10
+    3300258: halfleave 11
+    3300260: halfleave 12
+    3300262: halfleave 13
+    3300264: halfleave 14
+    3300266: halfleave 15
+    3300268: halfleave 16
+    3300270: halfleave 17
+    3300272: halfleave 18
+    3300274: halfleave 19
+    3300276: halfleave 2
+    3300278: halfleave 20
+    3300280: halfleave 21
+    3300282: halfleave 22
+    3300284: halfleave 23
+    3300286: halfleave 24
+    3300288: halfleave 25
+    3300290: halfleave 26
+    3300292: halfleave 27
+    3300294: halfleave 3
+    3300296: halfleave 4
+    3300298: halfleave 5
+    3300300: halfleave 6
+    3300302: halfleave 7
+    3300304: halfleave 8
+    3300306: halfleave 9
+    3300308: mattrass
+    3300310: mattrass 1
+    3300312: mattrass 10
+    3300314: mattrass 11
+    3300316: mattrass 12
+    3300318: mattrass 13
+    3300320: mattrass 14
+    3300322: mattrass 15
+    3300324: mattrass 2
+    3300326: mattrass 3
+    3300328: mattrass 4
+    3300330: mattrass 5
+    3300332: mattrass 6
+    3300334: mattrass 7
+    3300336: mattrass 8
+    3300338: mattrass 9
+    3300340: P_trunck
+    4300000: Mesh Group 1
+    4300002: Mesh Group 3
+    4300004: Mesh Group 5
+    4300006: Mesh Column
+    4300008: Mesh Group 28
+    4300010: Mesh Group 30
+    4300012: Mesh Group 32
+    4300014: Mesh Group 34
+    4300016: Mesh Group 36
+    4300018: Mesh mattrass
+    4300020: Mesh Group 67
+    4300022: Mesh Group 69
+    4300024: Mesh Group 77
+    4300026: Mesh halfleave
+    4300028: Mesh P_trunck
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

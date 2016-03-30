@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: dcbefefeeec4845568e40e33fc8ff7b8
+timeCreated: 1459312833
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f0000001000000011000000120000001300000014000000
+  assetHash:
+    serializedVersion: 2
+    Hash: d6e93ec6c0d777dd56843c2b7ca9189f
+  longitude: 13.417
+  latitude: 52.533
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -0.00023941495, y: 2.3815906, z: -3.16133}
+      lookAt: {x: 1.3378737, y: 0.6576568, z: 1.0131869}
+      up: {x: 0.11171188, y: 0.9306249, z: 0.34850803}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Group 11
+    100002: Group 13
+    100004: Group 15
+    100006: Group 17
+    100008: Group 5
+    100010: Group 7
+    100012: Group 9
+    100014: Komponente#1
+    100016: Komponente#2
+    100018: Komponente#3
+    100020: Komponente#4
+    100022: //RootNode
+    400000: Group 11
+    400002: Group 13
+    400004: Group 15
+    400006: Group 17
+    400008: Group 5
+    400010: Group 7
+    400012: Group 9
+    400014: Komponente#1
+    400016: Komponente#2
+    400018: Komponente#3
+    400020: Komponente#4
+    400022: //RootNode
+    2300000: Group 11
+    2300002: Group 13
+    2300004: Group 15
+    2300006: Group 17
+    2300008: Group 5
+    2300010: Group 7
+    2300012: Group 9
+    2300014: Komponente#3
+    2300016: Komponente#4
+    3300000: Group 11
+    3300002: Group 13
+    3300004: Group 15
+    3300006: Group 17
+    3300008: Group 5
+    3300010: Group 7
+    3300012: Group 9
+    3300014: Komponente#3
+    3300016: Komponente#4
+    4300000: Mesh Komponente#3
+    4300002: Mesh Group 5
+    4300004: Mesh Group 11
+    4300006: Mesh Group 13
+    4300008: Mesh Group 15
+    4300010: Mesh Group 17
+    4300012: Mesh Komponente#4
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

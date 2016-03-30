@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: f8f5cc144babe47f7a2285265ece9b57
+timeCreated: 1459311782
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cables
+    100002: cuerdas
+    100004: mariposa
+    100006: mastil
+    100008: mastil_Negro
+    100010: puente
+    100012: puente_inferior
+    100014: tornillo
+    100016: vara
+    100018: vara_cable
+    100020: vara_caucho
+    100022: vara_cuerda
+    100024: vara_metal
+    100026: violin
+    100028: violin_detras
+    100030: //RootNode
+    400000: cables
+    400002: cuerdas
+    400004: mariposa
+    400006: mastil
+    400008: mastil_Negro
+    400010: puente
+    400012: puente_inferior
+    400014: tornillo
+    400016: vara
+    400018: vara_cable
+    400020: vara_caucho
+    400022: vara_cuerda
+    400024: vara_metal
+    400026: violin
+    400028: violin_detras
+    400030: //RootNode
+    2300000: cables
+    2300002: cuerdas
+    2300004: mariposa
+    2300006: mastil
+    2300008: mastil_Negro
+    2300010: puente
+    2300012: puente_inferior
+    2300014: tornillo
+    2300016: vara
+    2300018: vara_cable
+    2300020: vara_caucho
+    2300022: vara_cuerda
+    2300024: vara_metal
+    2300026: violin
+    2300028: violin_detras
+    3300000: cables
+    3300002: cuerdas
+    3300004: mariposa
+    3300006: mastil
+    3300008: mastil_Negro
+    3300010: puente
+    3300012: puente_inferior
+    3300014: tornillo
+    3300016: vara
+    3300018: vara_cable
+    3300020: vara_caucho
+    3300022: vara_cuerda
+    3300024: vara_metal
+    3300026: violin
+    3300028: violin_detras
+    4300000: cables
+    4300002: cuerdas
+    4300004: mariposa
+    4300006: mastil
+    4300008: mastil_Negro
+    4300010: puente
+    4300012: puente_inferior
+    4300014: tornillo
+    4300016: vara
+    4300018: vara_cable
+    4300020: vara_caucho
+    4300022: vara_cuerda
+    4300024: vara_metal
+    4300026: violin
+    4300028: violin_detras
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

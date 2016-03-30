@@ -1,0 +1,823 @@
+fileFormatVersion: 2
+guid: f70f82c0c86034024bf9a50e756e2739
+timeCreated: 1459325281
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f0100006001000061010000620100006301000064010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 1b72638e87e1a6da602e269d73b4a0e8
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -1.9345629, y: 1.463768, z: -1.9520535}
+      lookAt: {x: -0.5797035, y: 0.7863383, z: -0.59719414}
+      up: {x: 0.23570226, y: 0.94280905, z: 0.23570226}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bass
+    100002: Bass 1
+    100004: Body
+    100006: Bolt
+    100008: Bolt 1
+    100010: Bottom-Joint
+    100012: Bottom-Joint 1
+    100014: Bottom-Joint 2
+    100016: Bottom-Joint 3
+    100018: Button
+    100020: Button 1
+    100022: Button 2
+    100024: Button 3
+    100026: Button 4
+    100028: Button 5
+    100030: Button 6
+    100032: Button 7
+    100034: Control Knob#8
+    100036: Control Knob#8 1
+    100038: Control Knob#8 2
+    100040: Control Knob#8 3
+    100042: Control Knob#8 4
+    100044: Control Knob#8 5
+    100046: Control Knob#8 6
+    100048: Control Knob#8 7
+    100050: Edge Frame
+    100052: Edge Frame 1
+    100054: Fader Control
+    100056: Fader Control 1
+    100058: Fader Control 2
+    100060: Fader Control 3
+    100062: Fader Control 4
+    100064: Fader Control 5
+    100066: Fader Control 6
+    100068: Fader Control 7
+    100070: Fader Control 8
+    100072: Leg
+    100074: Leg 1
+    100076: Leg 2
+    100078: Leg 3
+    100080: //RootNode
+    100082: Nut
+    100084: Nut 1
+    100086: Piano_Key
+    100088: Piano_Key 1
+    100090: Piano_Key 10
+    100092: Piano_Key 11
+    100094: Piano_Key 12
+    100096: Piano_Key 13
+    100098: Piano_Key 14
+    100100: Piano_Key 15
+    100102: Piano_Key 16
+    100104: Piano_Key 17
+    100106: Piano_Key 18
+    100108: Piano_Key 19
+    100110: Piano_Key 2
+    100112: Piano_Key 20
+    100114: Piano_Key 21
+    100116: Piano_Key 22
+    100118: Piano_Key 23
+    100120: Piano_Key 24
+    100122: Piano_Key 25
+    100124: Piano_Key 26
+    100126: Piano_Key 27
+    100128: Piano_Key 28
+    100130: Piano_Key 29
+    100132: Piano_Key 3
+    100134: Piano_Key 30
+    100136: Piano_Key 31
+    100138: Piano_Key 32
+    100140: Piano_Key 33
+    100142: Piano_Key 34
+    100144: Piano_Key 35
+    100146: Piano_Key 36
+    100148: Piano_Key 4
+    100150: Piano_Key 5
+    100152: Piano_Key 6
+    100154: Piano_Key 7
+    100156: Piano_Key 8
+    100158: Piano_Key 9
+    100160: Piano_Knob
+    100162: Piano_Knob 1
+    100164: Piano_Knob#1
+    100166: Piano_Knob#1 1
+    100168: Piano_Knob#1 10
+    100170: Piano_Knob#1 11
+    100172: Piano_Knob#1 12
+    100174: Piano_Knob#1 13
+    100176: Piano_Knob#1 14
+    100178: Piano_Knob#1 15
+    100180: Piano_Knob#1 16
+    100182: Piano_Knob#1 17
+    100184: Piano_Knob#1 18
+    100186: Piano_Knob#1 19
+    100188: Piano_Knob#1 2
+    100190: Piano_Knob#1 3
+    100192: Piano_Knob#1 4
+    100194: Piano_Knob#1 5
+    100196: Piano_Knob#1 6
+    100198: Piano_Knob#1 7
+    100200: Piano_Knob#1 8
+    100202: Piano_Knob#1 9
+    100204: Screw
+    100206: Screw 1
+    100208: Screw 10
+    100210: Screw 11
+    100212: Screw 12
+    100214: Screw 13
+    100216: Screw 14
+    100218: Screw 15
+    100220: Screw 2
+    100222: Screw 3
+    100224: Screw 4
+    100226: Screw 5
+    100228: Screw 6
+    100230: Screw 7
+    100232: Screw 8
+    100234: Screw 9
+    100236: Support Rod
+    100238: Support Rod 1
+    100240: Tuning Sticks
+    100242: Tuning Sticks 1
+    100244: Tuning Sticks 10
+    100246: Tuning Sticks 11
+    100248: Tuning Sticks 12
+    100250: Tuning Sticks 13
+    100252: Tuning Sticks 14
+    100254: Tuning Sticks 15
+    100256: Tuning Sticks 16
+    100258: Tuning Sticks 17
+    100260: Tuning Sticks 18
+    100262: Tuning Sticks 19
+    100264: Tuning Sticks 2
+    100266: Tuning Sticks 20
+    100268: Tuning Sticks 21
+    100270: Tuning Sticks 22
+    100272: Tuning Sticks 23
+    100274: Tuning Sticks 24
+    100276: Tuning Sticks 25
+    100278: Tuning Sticks 26
+    100280: Tuning Sticks 27
+    100282: Tuning Sticks 28
+    100284: Tuning Sticks 29
+    100286: Tuning Sticks 3
+    100288: Tuning Sticks 30
+    100290: Tuning Sticks 31
+    100292: Tuning Sticks 32
+    100294: Tuning Sticks 33
+    100296: Tuning Sticks 34
+    100298: Tuning Sticks 35
+    100300: Tuning Sticks 36
+    100302: Tuning Sticks 37
+    100304: Tuning Sticks 38
+    100306: Tuning Sticks 39
+    100308: Tuning Sticks 4
+    100310: Tuning Sticks 40
+    100312: Tuning Sticks 41
+    100314: Tuning Sticks 42
+    100316: Tuning Sticks 43
+    100318: Tuning Sticks 44
+    100320: Tuning Sticks 45
+    100322: Tuning Sticks 46
+    100324: Tuning Sticks 47
+    100326: Tuning Sticks 48
+    100328: Tuning Sticks 49
+    100330: Tuning Sticks 5
+    100332: Tuning Sticks 50
+    100334: Tuning Sticks 51
+    100336: Tuning Sticks 52
+    100338: Tuning Sticks 6
+    100340: Tuning Sticks 7
+    100342: Tuning Sticks 8
+    100344: Tuning Sticks 9
+    100346: Volume
+    100348: Volume 1
+    100350: Volume 2
+    100352: Volume 3
+    100354: Washer
+    100356: Washer 1
+    400000: Bass
+    400002: Bass 1
+    400004: Body
+    400006: Bolt
+    400008: Bolt 1
+    400010: Bottom-Joint
+    400012: Bottom-Joint 1
+    400014: Bottom-Joint 2
+    400016: Bottom-Joint 3
+    400018: Button
+    400020: Button 1
+    400022: Button 2
+    400024: Button 3
+    400026: Button 4
+    400028: Button 5
+    400030: Button 6
+    400032: Button 7
+    400034: Control Knob#8
+    400036: Control Knob#8 1
+    400038: Control Knob#8 2
+    400040: Control Knob#8 3
+    400042: Control Knob#8 4
+    400044: Control Knob#8 5
+    400046: Control Knob#8 6
+    400048: Control Knob#8 7
+    400050: Edge Frame
+    400052: Edge Frame 1
+    400054: Fader Control
+    400056: Fader Control 1
+    400058: Fader Control 2
+    400060: Fader Control 3
+    400062: Fader Control 4
+    400064: Fader Control 5
+    400066: Fader Control 6
+    400068: Fader Control 7
+    400070: Fader Control 8
+    400072: Leg
+    400074: Leg 1
+    400076: Leg 2
+    400078: Leg 3
+    400080: //RootNode
+    400082: Nut
+    400084: Nut 1
+    400086: Piano_Key
+    400088: Piano_Key 1
+    400090: Piano_Key 10
+    400092: Piano_Key 11
+    400094: Piano_Key 12
+    400096: Piano_Key 13
+    400098: Piano_Key 14
+    400100: Piano_Key 15
+    400102: Piano_Key 16
+    400104: Piano_Key 17
+    400106: Piano_Key 18
+    400108: Piano_Key 19
+    400110: Piano_Key 2
+    400112: Piano_Key 20
+    400114: Piano_Key 21
+    400116: Piano_Key 22
+    400118: Piano_Key 23
+    400120: Piano_Key 24
+    400122: Piano_Key 25
+    400124: Piano_Key 26
+    400126: Piano_Key 27
+    400128: Piano_Key 28
+    400130: Piano_Key 29
+    400132: Piano_Key 3
+    400134: Piano_Key 30
+    400136: Piano_Key 31
+    400138: Piano_Key 32
+    400140: Piano_Key 33
+    400142: Piano_Key 34
+    400144: Piano_Key 35
+    400146: Piano_Key 36
+    400148: Piano_Key 4
+    400150: Piano_Key 5
+    400152: Piano_Key 6
+    400154: Piano_Key 7
+    400156: Piano_Key 8
+    400158: Piano_Key 9
+    400160: Piano_Knob
+    400162: Piano_Knob 1
+    400164: Piano_Knob#1
+    400166: Piano_Knob#1 1
+    400168: Piano_Knob#1 10
+    400170: Piano_Knob#1 11
+    400172: Piano_Knob#1 12
+    400174: Piano_Knob#1 13
+    400176: Piano_Knob#1 14
+    400178: Piano_Knob#1 15
+    400180: Piano_Knob#1 16
+    400182: Piano_Knob#1 17
+    400184: Piano_Knob#1 18
+    400186: Piano_Knob#1 19
+    400188: Piano_Knob#1 2
+    400190: Piano_Knob#1 3
+    400192: Piano_Knob#1 4
+    400194: Piano_Knob#1 5
+    400196: Piano_Knob#1 6
+    400198: Piano_Knob#1 7
+    400200: Piano_Knob#1 8
+    400202: Piano_Knob#1 9
+    400204: Screw
+    400206: Screw 1
+    400208: Screw 10
+    400210: Screw 11
+    400212: Screw 12
+    400214: Screw 13
+    400216: Screw 14
+    400218: Screw 15
+    400220: Screw 2
+    400222: Screw 3
+    400224: Screw 4
+    400226: Screw 5
+    400228: Screw 6
+    400230: Screw 7
+    400232: Screw 8
+    400234: Screw 9
+    400236: Support Rod
+    400238: Support Rod 1
+    400240: Tuning Sticks
+    400242: Tuning Sticks 1
+    400244: Tuning Sticks 10
+    400246: Tuning Sticks 11
+    400248: Tuning Sticks 12
+    400250: Tuning Sticks 13
+    400252: Tuning Sticks 14
+    400254: Tuning Sticks 15
+    400256: Tuning Sticks 16
+    400258: Tuning Sticks 17
+    400260: Tuning Sticks 18
+    400262: Tuning Sticks 19
+    400264: Tuning Sticks 2
+    400266: Tuning Sticks 20
+    400268: Tuning Sticks 21
+    400270: Tuning Sticks 22
+    400272: Tuning Sticks 23
+    400274: Tuning Sticks 24
+    400276: Tuning Sticks 25
+    400278: Tuning Sticks 26
+    400280: Tuning Sticks 27
+    400282: Tuning Sticks 28
+    400284: Tuning Sticks 29
+    400286: Tuning Sticks 3
+    400288: Tuning Sticks 30
+    400290: Tuning Sticks 31
+    400292: Tuning Sticks 32
+    400294: Tuning Sticks 33
+    400296: Tuning Sticks 34
+    400298: Tuning Sticks 35
+    400300: Tuning Sticks 36
+    400302: Tuning Sticks 37
+    400304: Tuning Sticks 38
+    400306: Tuning Sticks 39
+    400308: Tuning Sticks 4
+    400310: Tuning Sticks 40
+    400312: Tuning Sticks 41
+    400314: Tuning Sticks 42
+    400316: Tuning Sticks 43
+    400318: Tuning Sticks 44
+    400320: Tuning Sticks 45
+    400322: Tuning Sticks 46
+    400324: Tuning Sticks 47
+    400326: Tuning Sticks 48
+    400328: Tuning Sticks 49
+    400330: Tuning Sticks 5
+    400332: Tuning Sticks 50
+    400334: Tuning Sticks 51
+    400336: Tuning Sticks 52
+    400338: Tuning Sticks 6
+    400340: Tuning Sticks 7
+    400342: Tuning Sticks 8
+    400344: Tuning Sticks 9
+    400346: Volume
+    400348: Volume 1
+    400350: Volume 2
+    400352: Volume 3
+    400354: Washer
+    400356: Washer 1
+    2300000: Bass
+    2300002: Bass 1
+    2300004: Body
+    2300006: Bolt
+    2300008: Bolt 1
+    2300010: Bottom-Joint
+    2300012: Bottom-Joint 1
+    2300014: Bottom-Joint 2
+    2300016: Bottom-Joint 3
+    2300018: Button
+    2300020: Button 1
+    2300022: Button 2
+    2300024: Button 3
+    2300026: Button 4
+    2300028: Button 5
+    2300030: Button 6
+    2300032: Button 7
+    2300034: Control Knob#8
+    2300036: Control Knob#8 1
+    2300038: Control Knob#8 2
+    2300040: Control Knob#8 3
+    2300042: Control Knob#8 4
+    2300044: Control Knob#8 5
+    2300046: Control Knob#8 6
+    2300048: Control Knob#8 7
+    2300050: Edge Frame
+    2300052: Edge Frame 1
+    2300054: Fader Control
+    2300056: Fader Control 1
+    2300058: Fader Control 2
+    2300060: Fader Control 3
+    2300062: Fader Control 4
+    2300064: Fader Control 5
+    2300066: Fader Control 6
+    2300068: Fader Control 7
+    2300070: Fader Control 8
+    2300072: Leg
+    2300074: Leg 1
+    2300076: Leg 2
+    2300078: Leg 3
+    2300080: Nut
+    2300082: Nut 1
+    2300084: Piano_Key
+    2300086: Piano_Key 1
+    2300088: Piano_Key 10
+    2300090: Piano_Key 11
+    2300092: Piano_Key 12
+    2300094: Piano_Key 13
+    2300096: Piano_Key 14
+    2300098: Piano_Key 15
+    2300100: Piano_Key 16
+    2300102: Piano_Key 17
+    2300104: Piano_Key 18
+    2300106: Piano_Key 19
+    2300108: Piano_Key 2
+    2300110: Piano_Key 20
+    2300112: Piano_Key 21
+    2300114: Piano_Key 22
+    2300116: Piano_Key 23
+    2300118: Piano_Key 24
+    2300120: Piano_Key 25
+    2300122: Piano_Key 26
+    2300124: Piano_Key 27
+    2300126: Piano_Key 28
+    2300128: Piano_Key 29
+    2300130: Piano_Key 3
+    2300132: Piano_Key 30
+    2300134: Piano_Key 31
+    2300136: Piano_Key 32
+    2300138: Piano_Key 33
+    2300140: Piano_Key 34
+    2300142: Piano_Key 35
+    2300144: Piano_Key 36
+    2300146: Piano_Key 4
+    2300148: Piano_Key 5
+    2300150: Piano_Key 6
+    2300152: Piano_Key 7
+    2300154: Piano_Key 8
+    2300156: Piano_Key 9
+    2300158: Piano_Knob
+    2300160: Piano_Knob 1
+    2300162: Piano_Knob#1
+    2300164: Piano_Knob#1 1
+    2300166: Piano_Knob#1 10
+    2300168: Piano_Knob#1 11
+    2300170: Piano_Knob#1 12
+    2300172: Piano_Knob#1 13
+    2300174: Piano_Knob#1 14
+    2300176: Piano_Knob#1 15
+    2300178: Piano_Knob#1 16
+    2300180: Piano_Knob#1 17
+    2300182: Piano_Knob#1 18
+    2300184: Piano_Knob#1 19
+    2300186: Piano_Knob#1 2
+    2300188: Piano_Knob#1 3
+    2300190: Piano_Knob#1 4
+    2300192: Piano_Knob#1 5
+    2300194: Piano_Knob#1 6
+    2300196: Piano_Knob#1 7
+    2300198: Piano_Knob#1 8
+    2300200: Piano_Knob#1 9
+    2300202: Screw
+    2300204: Screw 1
+    2300206: Screw 10
+    2300208: Screw 11
+    2300210: Screw 12
+    2300212: Screw 13
+    2300214: Screw 14
+    2300216: Screw 15
+    2300218: Screw 2
+    2300220: Screw 3
+    2300222: Screw 4
+    2300224: Screw 5
+    2300226: Screw 6
+    2300228: Screw 7
+    2300230: Screw 8
+    2300232: Screw 9
+    2300234: Support Rod
+    2300236: Support Rod 1
+    2300238: Tuning Sticks
+    2300240: Tuning Sticks 1
+    2300242: Tuning Sticks 10
+    2300244: Tuning Sticks 11
+    2300246: Tuning Sticks 12
+    2300248: Tuning Sticks 13
+    2300250: Tuning Sticks 14
+    2300252: Tuning Sticks 15
+    2300254: Tuning Sticks 16
+    2300256: Tuning Sticks 17
+    2300258: Tuning Sticks 18
+    2300260: Tuning Sticks 19
+    2300262: Tuning Sticks 2
+    2300264: Tuning Sticks 20
+    2300266: Tuning Sticks 21
+    2300268: Tuning Sticks 22
+    2300270: Tuning Sticks 23
+    2300272: Tuning Sticks 24
+    2300274: Tuning Sticks 25
+    2300276: Tuning Sticks 26
+    2300278: Tuning Sticks 27
+    2300280: Tuning Sticks 28
+    2300282: Tuning Sticks 29
+    2300284: Tuning Sticks 3
+    2300286: Tuning Sticks 30
+    2300288: Tuning Sticks 31
+    2300290: Tuning Sticks 32
+    2300292: Tuning Sticks 33
+    2300294: Tuning Sticks 34
+    2300296: Tuning Sticks 35
+    2300298: Tuning Sticks 36
+    2300300: Tuning Sticks 37
+    2300302: Tuning Sticks 38
+    2300304: Tuning Sticks 39
+    2300306: Tuning Sticks 4
+    2300308: Tuning Sticks 40
+    2300310: Tuning Sticks 41
+    2300312: Tuning Sticks 42
+    2300314: Tuning Sticks 43
+    2300316: Tuning Sticks 44
+    2300318: Tuning Sticks 45
+    2300320: Tuning Sticks 46
+    2300322: Tuning Sticks 47
+    2300324: Tuning Sticks 48
+    2300326: Tuning Sticks 49
+    2300328: Tuning Sticks 5
+    2300330: Tuning Sticks 50
+    2300332: Tuning Sticks 51
+    2300334: Tuning Sticks 52
+    2300336: Tuning Sticks 6
+    2300338: Tuning Sticks 7
+    2300340: Tuning Sticks 8
+    2300342: Tuning Sticks 9
+    2300344: Volume
+    2300346: Volume 1
+    2300348: Volume 2
+    2300350: Volume 3
+    2300352: Washer
+    2300354: Washer 1
+    3300000: Bass
+    3300002: Bass 1
+    3300004: Body
+    3300006: Bolt
+    3300008: Bolt 1
+    3300010: Bottom-Joint
+    3300012: Bottom-Joint 1
+    3300014: Bottom-Joint 2
+    3300016: Bottom-Joint 3
+    3300018: Button
+    3300020: Button 1
+    3300022: Button 2
+    3300024: Button 3
+    3300026: Button 4
+    3300028: Button 5
+    3300030: Button 6
+    3300032: Button 7
+    3300034: Control Knob#8
+    3300036: Control Knob#8 1
+    3300038: Control Knob#8 2
+    3300040: Control Knob#8 3
+    3300042: Control Knob#8 4
+    3300044: Control Knob#8 5
+    3300046: Control Knob#8 6
+    3300048: Control Knob#8 7
+    3300050: Edge Frame
+    3300052: Edge Frame 1
+    3300054: Fader Control
+    3300056: Fader Control 1
+    3300058: Fader Control 2
+    3300060: Fader Control 3
+    3300062: Fader Control 4
+    3300064: Fader Control 5
+    3300066: Fader Control 6
+    3300068: Fader Control 7
+    3300070: Fader Control 8
+    3300072: Leg
+    3300074: Leg 1
+    3300076: Leg 2
+    3300078: Leg 3
+    3300080: Nut
+    3300082: Nut 1
+    3300084: Piano_Key
+    3300086: Piano_Key 1
+    3300088: Piano_Key 10
+    3300090: Piano_Key 11
+    3300092: Piano_Key 12
+    3300094: Piano_Key 13
+    3300096: Piano_Key 14
+    3300098: Piano_Key 15
+    3300100: Piano_Key 16
+    3300102: Piano_Key 17
+    3300104: Piano_Key 18
+    3300106: Piano_Key 19
+    3300108: Piano_Key 2
+    3300110: Piano_Key 20
+    3300112: Piano_Key 21
+    3300114: Piano_Key 22
+    3300116: Piano_Key 23
+    3300118: Piano_Key 24
+    3300120: Piano_Key 25
+    3300122: Piano_Key 26
+    3300124: Piano_Key 27
+    3300126: Piano_Key 28
+    3300128: Piano_Key 29
+    3300130: Piano_Key 3
+    3300132: Piano_Key 30
+    3300134: Piano_Key 31
+    3300136: Piano_Key 32
+    3300138: Piano_Key 33
+    3300140: Piano_Key 34
+    3300142: Piano_Key 35
+    3300144: Piano_Key 36
+    3300146: Piano_Key 4
+    3300148: Piano_Key 5
+    3300150: Piano_Key 6
+    3300152: Piano_Key 7
+    3300154: Piano_Key 8
+    3300156: Piano_Key 9
+    3300158: Piano_Knob
+    3300160: Piano_Knob 1
+    3300162: Piano_Knob#1
+    3300164: Piano_Knob#1 1
+    3300166: Piano_Knob#1 10
+    3300168: Piano_Knob#1 11
+    3300170: Piano_Knob#1 12
+    3300172: Piano_Knob#1 13
+    3300174: Piano_Knob#1 14
+    3300176: Piano_Knob#1 15
+    3300178: Piano_Knob#1 16
+    3300180: Piano_Knob#1 17
+    3300182: Piano_Knob#1 18
+    3300184: Piano_Knob#1 19
+    3300186: Piano_Knob#1 2
+    3300188: Piano_Knob#1 3
+    3300190: Piano_Knob#1 4
+    3300192: Piano_Knob#1 5
+    3300194: Piano_Knob#1 6
+    3300196: Piano_Knob#1 7
+    3300198: Piano_Knob#1 8
+    3300200: Piano_Knob#1 9
+    3300202: Screw
+    3300204: Screw 1
+    3300206: Screw 10
+    3300208: Screw 11
+    3300210: Screw 12
+    3300212: Screw 13
+    3300214: Screw 14
+    3300216: Screw 15
+    3300218: Screw 2
+    3300220: Screw 3
+    3300222: Screw 4
+    3300224: Screw 5
+    3300226: Screw 6
+    3300228: Screw 7
+    3300230: Screw 8
+    3300232: Screw 9
+    3300234: Support Rod
+    3300236: Support Rod 1
+    3300238: Tuning Sticks
+    3300240: Tuning Sticks 1
+    3300242: Tuning Sticks 10
+    3300244: Tuning Sticks 11
+    3300246: Tuning Sticks 12
+    3300248: Tuning Sticks 13
+    3300250: Tuning Sticks 14
+    3300252: Tuning Sticks 15
+    3300254: Tuning Sticks 16
+    3300256: Tuning Sticks 17
+    3300258: Tuning Sticks 18
+    3300260: Tuning Sticks 19
+    3300262: Tuning Sticks 2
+    3300264: Tuning Sticks 20
+    3300266: Tuning Sticks 21
+    3300268: Tuning Sticks 22
+    3300270: Tuning Sticks 23
+    3300272: Tuning Sticks 24
+    3300274: Tuning Sticks 25
+    3300276: Tuning Sticks 26
+    3300278: Tuning Sticks 27
+    3300280: Tuning Sticks 28
+    3300282: Tuning Sticks 29
+    3300284: Tuning Sticks 3
+    3300286: Tuning Sticks 30
+    3300288: Tuning Sticks 31
+    3300290: Tuning Sticks 32
+    3300292: Tuning Sticks 33
+    3300294: Tuning Sticks 34
+    3300296: Tuning Sticks 35
+    3300298: Tuning Sticks 36
+    3300300: Tuning Sticks 37
+    3300302: Tuning Sticks 38
+    3300304: Tuning Sticks 39
+    3300306: Tuning Sticks 4
+    3300308: Tuning Sticks 40
+    3300310: Tuning Sticks 41
+    3300312: Tuning Sticks 42
+    3300314: Tuning Sticks 43
+    3300316: Tuning Sticks 44
+    3300318: Tuning Sticks 45
+    3300320: Tuning Sticks 46
+    3300322: Tuning Sticks 47
+    3300324: Tuning Sticks 48
+    3300326: Tuning Sticks 49
+    3300328: Tuning Sticks 5
+    3300330: Tuning Sticks 50
+    3300332: Tuning Sticks 51
+    3300334: Tuning Sticks 52
+    3300336: Tuning Sticks 6
+    3300338: Tuning Sticks 7
+    3300340: Tuning Sticks 8
+    3300342: Tuning Sticks 9
+    3300344: Volume
+    3300346: Volume 1
+    3300348: Volume 2
+    3300350: Volume 3
+    3300352: Washer
+    3300354: Washer 1
+    4300000: Mesh Edge Frame
+    4300002: Mesh Body
+    4300004: Mesh Control Knob#8
+    4300006: Mesh Fader Control
+    4300008: Mesh Piano_Knob#1
+    4300010: Mesh Tuning Sticks
+    4300012: Mesh Piano_Knob
+    4300014: Mesh Piano_Key
+    4300016: Mesh Button
+    4300018: Mesh Volume
+    4300020: Mesh Bottom-Joint
+    4300022: Mesh Screw
+    4300024: Mesh Leg
+    4300026: Mesh Bass
+    4300028: Mesh Support Rod
+    4300030: Mesh Bolt
+    4300032: Mesh Washer
+    4300034: Mesh Nut
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

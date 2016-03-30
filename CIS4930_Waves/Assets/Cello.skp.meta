@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: c8830441d9ef54ac2b9a239f0b1dcd60
+timeCreated: 1459310584
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 27bdec4688c54067ad1b272c9739718d
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -1.4694026, y: 0.2666963, z: -1.945177}
+      lookAt: {x: 12.94946, y: 4.994611, z: 17.340157}
+      up: {x: -0.11536863, y: 0.98126435, z: -0.15430638}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -1.4694026, y: 0.2666963, z: -1.945177}
+        lookAt: {x: 12.94946, y: 4.994611, z: 17.340157}
+        up: {x: -0.11536863, y: 0.98126435, z: -0.15430638}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: "Sc\xE8nenr.1"
+    - camera:
+        position: {x: 1.8158097, y: 0.10350819, z: -1.5298835}
+        lookAt: {x: -15.337625, y: 6.3912177, z: 14.853194}
+        up: {x: 0.18529455, y: 0.96661603, z: -0.17697303}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: "Sc\xE8nenr.2"
+    - camera:
+        position: {x: 1.6372926, y: 0.06449174, z: 1.7827001}
+        lookAt: {x: -15.042885, y: 6.7558823, z: -14.925914}
+        up: {x: 0.19264942, y: 0.96210486, z: 0.19297786}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: "Sc\xE8nenr.3"
+    - camera:
+        position: {x: -1.5756527, y: -0.11175966, z: 1.7317041}
+        lookAt: {x: 13.466937, y: 8.227185, z: -15.771533}
+        up: {x: -0.22148906, y: 0.9404909, z: 0.25771993}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: "Sc\xE8nenr.4"
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Component#1
+    100002: Component#2
+    100004: Component#2 1
+    100006: Component#3
+    100008: Component#4
+    100010: Component#4 1
+    100012: Component#4 2
+    100014: Component#4 3
+    100016: Component#4 4
+    100018: Component#4 5
+    100020: Component#4 6
+    100022: Component#4 7
+    100024: Component#5
+    100026: Component#5 1
+    100028: Component#5 10
+    100030: Component#5 11
+    100032: Component#5 12
+    100034: Component#5 13
+    100036: Component#5 14
+    100038: Component#5 15
+    100040: Component#5 16
+    100042: Component#5 17
+    100044: Component#5 18
+    100046: Component#5 19
+    100048: Component#5 2
+    100050: Component#5 3
+    100052: Component#5 4
+    100054: Component#5 5
+    100056: Component#5 6
+    100058: Component#5 7
+    100060: Component#5 8
+    100062: Component#5 9
+    100064: Component#6
+    100066: Component#6 1
+    100068: Component#7
+    100070: Group 1
+    100072: Group 29
+    100074: Group 8
+    100076: //RootNode
+    100078: SFL#1
+    400000: Component#1
+    400002: Component#2
+    400004: Component#2 1
+    400006: Component#3
+    400008: Component#4
+    400010: Component#4 1
+    400012: Component#4 2
+    400014: Component#4 3
+    400016: Component#4 4
+    400018: Component#4 5
+    400020: Component#4 6
+    400022: Component#4 7
+    400024: Component#5
+    400026: Component#5 1
+    400028: Component#5 10
+    400030: Component#5 11
+    400032: Component#5 12
+    400034: Component#5 13
+    400036: Component#5 14
+    400038: Component#5 15
+    400040: Component#5 16
+    400042: Component#5 17
+    400044: Component#5 18
+    400046: Component#5 19
+    400048: Component#5 2
+    400050: Component#5 3
+    400052: Component#5 4
+    400054: Component#5 5
+    400056: Component#5 6
+    400058: Component#5 7
+    400060: Component#5 8
+    400062: Component#5 9
+    400064: Component#6
+    400066: Component#6 1
+    400068: Component#7
+    400070: Group 1
+    400072: Group 29
+    400074: Group 8
+    400076: //RootNode
+    400078: SFL#1
+    2300000: Component#1
+    2300002: Component#2
+    2300004: Component#2 1
+    2300006: Component#4
+    2300008: Component#4 1
+    2300010: Component#4 2
+    2300012: Component#4 3
+    2300014: Component#4 4
+    2300016: Component#4 5
+    2300018: Component#4 6
+    2300020: Component#4 7
+    2300022: Component#5
+    2300024: Component#5 1
+    2300026: Component#5 10
+    2300028: Component#5 11
+    2300030: Component#5 12
+    2300032: Component#5 13
+    2300034: Component#5 14
+    2300036: Component#5 15
+    2300038: Component#5 16
+    2300040: Component#5 17
+    2300042: Component#5 18
+    2300044: Component#5 19
+    2300046: Component#5 2
+    2300048: Component#5 3
+    2300050: Component#5 4
+    2300052: Component#5 5
+    2300054: Component#5 6
+    2300056: Component#5 7
+    2300058: Component#5 8
+    2300060: Component#5 9
+    2300062: Component#6
+    2300064: Component#6 1
+    2300066: Component#7
+    2300068: Group 29
+    2300070: Group 8
+    2300072: SFL#1
+    3300000: Component#1
+    3300002: Component#2
+    3300004: Component#2 1
+    3300006: Component#4
+    3300008: Component#4 1
+    3300010: Component#4 2
+    3300012: Component#4 3
+    3300014: Component#4 4
+    3300016: Component#4 5
+    3300018: Component#4 6
+    3300020: Component#4 7
+    3300022: Component#5
+    3300024: Component#5 1
+    3300026: Component#5 10
+    3300028: Component#5 11
+    3300030: Component#5 12
+    3300032: Component#5 13
+    3300034: Component#5 14
+    3300036: Component#5 15
+    3300038: Component#5 16
+    3300040: Component#5 17
+    3300042: Component#5 18
+    3300044: Component#5 19
+    3300046: Component#5 2
+    3300048: Component#5 3
+    3300050: Component#5 4
+    3300052: Component#5 5
+    3300054: Component#5 6
+    3300056: Component#5 7
+    3300058: Component#5 8
+    3300060: Component#5 9
+    3300062: Component#6
+    3300064: Component#6 1
+    3300066: Component#7
+    3300068: Group 29
+    3300070: Group 8
+    3300072: SFL#1
+    4300000: Mesh Component#5
+    4300002: Mesh Component#7
+    4300004: Mesh Group 8
+    4300006: Mesh Component#1
+    4300008: Mesh Component#2
+    4300010: Mesh Component#6
+    4300012: Mesh Group 29
+    4300014: Mesh Component#4
+    4300016: Mesh SFL#1
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

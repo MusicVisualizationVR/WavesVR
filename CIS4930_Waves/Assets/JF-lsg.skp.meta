@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: f3a6c86c7ffaa4164bb98b4485bd0bff
+timeCreated: 1459323943
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000020000000300000004000000050000000600000007000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 159dec55ccc552e8f38cbe9d0ad7369b
+  longitude: -47.917
+  latitude: -15.783
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.68534946, y: 0.6910227, z: 0.9397217}
+      lookAt: {x: -0.76514006, y: -1.837187, z: 1.7697809}
+      up: {x: -0.7240434, y: 0.551436, z: 0.41434216}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1/4" Female Audio Jack
+    100002: //RootNode
+    100004: JF-lsg 1
+    100006: JF-lsg 2
+    400000: 1/4" Female Audio Jack
+    400002: //RootNode
+    400004: JF-lsg 1
+    400006: JF-lsg 2
+    2300000: 1/4" Female Audio Jack
+    2300002: //RootNode
+    2300004: JF-lsg 1
+    2300006: JF-lsg 2
+    3300000: 1/4" Female Audio Jack
+    3300002: //RootNode
+    3300004: JF-lsg 1
+    3300006: JF-lsg 2
+    4300000: Mesh JF-lsg
+    4300002: Mesh 1/4" Female Audio Jack
+    4300004: Mesh JF-lsg
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

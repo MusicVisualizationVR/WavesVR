@@ -1,0 +1,1233 @@
+fileFormatVersion: 2
+guid: 920f0923e63b141678cc4939205af20c
+timeCreated: 1459313154
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b020000
+  assetHash:
+    serializedVersion: 2
+    Hash: 08f64627e5b3759c7422b8cfb923da88
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -1.4859834, y: 1.6761692, z: -2.202408}
+      lookAt: {x: -0.11519308, y: 1.0987027, z: -0.8147165}
+      up: {x: 0.199493, y: 0.95886266, z: 0.20195267}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1/4 connection
+    100002: 1/4 connection 1
+    100004: 1/4 connection 2
+    100006: 1/4 connection 3
+    100008: 1/4 connection 4
+    100010: 1/4 connection 5
+    100012: 1/4 connection 6
+    100014: 1/4 connection 7
+    100016: Bass drum
+    100018: //RootNode
+    100020: Bearing
+    100022: Bearing 1
+    100024: Bearing 2
+    100026: Bearing 3
+    100028: Bolt 2
+    100030: Bolt 2 1
+    100032: Bolt 2 complete
+    100034: Bolt Complete
+    100036: Bolt for handle
+    100038: Bracket
+    100040: Bracket 1
+    100042: Bracket 2
+    100044: Bracket 3
+    100046: Bracket 4
+    100048: Bracket 5
+    100050: Bracket 6
+    100052: Bracket 7
+    100054: Brackets
+    100056: Brackets 1
+    100058: Brackets 2
+    100060: Brackets 3
+    100062: Brakett
+    100064: Brakett 1
+    100066: Demper
+    100068: Demper 1
+    100070: Demper 1/2
+    100072: Demper 1/2 1
+    100074: Demper 1/2 10
+    100076: Demper 1/2 11
+    100078: Demper 1/2 12
+    100080: Demper 1/2 13
+    100082: Demper 1/2 14
+    100084: Demper 1/2 15
+    100086: Demper 1/2 2
+    100088: Demper 1/2 3
+    100090: Demper 1/2 4
+    100092: Demper 1/2 5
+    100094: Demper 1/2 6
+    100096: Demper 1/2 7
+    100098: Demper 1/2 8
+    100100: Demper 1/2 9
+    100102: Demper 2
+    100104: Demper 3
+    100106: Demper 4
+    100108: Demper 5
+    100110: Demper 6
+    100112: Demper 7
+    100114: Eye for handle
+    100116: Eyebolt
+    100118: Handle
+    100120: Image 434
+    100122: Lug, halv
+    100124: Lug, halv 1
+    100126: Lug, halv 10
+    100128: Lug, halv 11
+    100130: Lug, halv 12
+    100132: Lug, halv 13
+    100134: Lug, halv 14
+    100136: Lug, halv 15
+    100138: Lug, halv 16
+    100140: Lug, halv 17
+    100142: Lug, halv 18
+    100144: Lug, halv 19
+    100146: Lug, halv 2
+    100148: Lug, halv 20
+    100150: Lug, halv 21
+    100152: Lug, halv 22
+    100154: Lug, halv 23
+    100156: Lug, halv 24
+    100158: Lug, halv 25
+    100160: Lug, halv 26
+    100162: Lug, halv 27
+    100164: Lug, halv 28
+    100166: Lug, halv 29
+    100168: Lug, halv 3
+    100170: Lug, halv 30
+    100172: Lug, halv 31
+    100174: Lug, halv 32
+    100176: Lug, halv 33
+    100178: Lug, halv 34
+    100180: Lug, halv 35
+    100182: Lug, halv 36
+    100184: Lug, halv 37
+    100186: Lug, halv 38
+    100188: Lug, halv 39
+    100190: Lug, halv 4
+    100192: Lug, halv 40
+    100194: Lug, halv 41
+    100196: Lug, halv 42
+    100198: Lug, halv 43
+    100200: Lug, halv 44
+    100202: Lug, halv 45
+    100204: Lug, halv 46
+    100206: Lug, halv 47
+    100208: Lug, halv 5
+    100210: Lug, halv 6
+    100212: Lug, halv 7
+    100214: Lug, halv 8
+    100216: Lug, halv 9
+    100218: Lug, komplett
+    100220: Lug, komplett 1
+    100222: Lug, komplett 10
+    100224: Lug, komplett 11
+    100226: Lug, komplett 12
+    100228: Lug, komplett 13
+    100230: Lug, komplett 14
+    100232: Lug, komplett 15
+    100234: Lug, komplett 16
+    100236: Lug, komplett 17
+    100238: Lug, komplett 18
+    100240: Lug, komplett 19
+    100242: Lug, komplett 2
+    100244: Lug, komplett 20
+    100246: Lug, komplett 21
+    100248: Lug, komplett 22
+    100250: Lug, komplett 23
+    100252: Lug, komplett 3
+    100254: Lug, komplett 4
+    100256: Lug, komplett 5
+    100258: Lug, komplett 6
+    100260: Lug, komplett 7
+    100262: Lug, komplett 8
+    100264: Lug, komplett 9
+    100266: Lugs-skrue
+    100268: Lugs-skrue 1
+    100270: Lugs-skrue 10
+    100272: Lugs-skrue 11
+    100274: Lugs-skrue 12
+    100276: Lugs-skrue 13
+    100278: Lugs-skrue 14
+    100280: Lugs-skrue 15
+    100282: Lugs-skrue 16
+    100284: Lugs-skrue 17
+    100286: Lugs-skrue 18
+    100288: Lugs-skrue 19
+    100290: Lugs-skrue 2
+    100292: Lugs-skrue 20
+    100294: Lugs-skrue 21
+    100296: Lugs-skrue 22
+    100298: Lugs-skrue 23
+    100300: Lugs-skrue 3
+    100302: Lugs-skrue 4
+    100304: Lugs-skrue 5
+    100306: Lugs-skrue 6
+    100308: Lugs-skrue 7
+    100310: Lugs-skrue 8
+    100312: Lugs-skrue 9
+    100314: Lugs-skrue m/stang
+    100316: Lugs-skrue m/stang 1
+    100318: Lugs-skrue m/stang 10
+    100320: Lugs-skrue m/stang 11
+    100322: Lugs-skrue m/stang 12
+    100324: Lugs-skrue m/stang 13
+    100326: Lugs-skrue m/stang 14
+    100328: Lugs-skrue m/stang 15
+    100330: Lugs-skrue m/stang 16
+    100332: Lugs-skrue m/stang 17
+    100334: Lugs-skrue m/stang 18
+    100336: Lugs-skrue m/stang 19
+    100338: Lugs-skrue m/stang 2
+    100340: Lugs-skrue m/stang 20
+    100342: Lugs-skrue m/stang 21
+    100344: Lugs-skrue m/stang 22
+    100346: Lugs-skrue m/stang 23
+    100348: Lugs-skrue m/stang 3
+    100350: Lugs-skrue m/stang 4
+    100352: Lugs-skrue m/stang 5
+    100354: Lugs-skrue m/stang 6
+    100356: Lugs-skrue m/stang 7
+    100358: Lugs-skrue m/stang 8
+    100360: Lugs-skrue m/stang 9
+    100362: Lugsfeste
+    100364: Lugsfeste 1
+    100366: Lugsfeste 10
+    100368: Lugsfeste 11
+    100370: Lugsfeste 12
+    100372: Lugsfeste 13
+    100374: Lugsfeste 14
+    100376: Lugsfeste 15
+    100378: Lugsfeste 16
+    100380: Lugsfeste 17
+    100382: Lugsfeste 18
+    100384: Lugsfeste 19
+    100386: Lugsfeste 2
+    100388: Lugsfeste 20
+    100390: Lugsfeste 21
+    100392: Lugsfeste 22
+    100394: Lugsfeste 23
+    100396: Lugsfeste 3
+    100398: Lugsfeste 4
+    100400: Lugsfeste 5
+    100402: Lugsfeste 6
+    100404: Lugsfeste 7
+    100406: Lugsfeste 8
+    100408: Lugsfeste 9
+    100410: Lugsfeste, komplett
+    100412: Lugsfeste, komplett 1
+    100414: Lugsfeste, komplett 10
+    100416: Lugsfeste, komplett 11
+    100418: Lugsfeste, komplett 2
+    100420: Lugsfeste, komplett 3
+    100422: Lugsfeste, komplett 4
+    100424: Lugsfeste, komplett 5
+    100426: Lugsfeste, komplett 6
+    100428: Lugsfeste, komplett 7
+    100430: Lugsfeste, komplett 8
+    100432: Lugsfeste, komplett 9
+    100434: Nut and Bolt 1/2
+    100436: Nut and Bolt 1/2 1
+    100438: Nut and Bolt 1/2 2
+    100440: Nut and Bolt 1/2 3
+    100442: Nut and Bolt 1/2 4
+    100444: Nut and Bolt 1/2 5
+    100446: Nut and Bolt 1/2 6
+    100448: Nut and Bolt 1/2 7
+    100450: Rim
+    100452: Rim 1
+    100454: Rim, halv
+    100456: Rim, halv 1
+    100458: Rim, halv 2
+    100460: Rim, halv 3
+    100462: Skinn
+    100464: Skinn#2
+    100466: Skrue. stabilisator
+    100468: Skrue. stabilisator 1
+    100470: Skrue. stabilisator 2
+    100472: Skrue. stabilisator 3
+    100474: Spacer for bolt
+    100476: Spacer for bolt 1
+    100478: Stabilisator
+    100480: Stabilisator 1
+    100482: Stabilisator 2
+    100484: Stabilisator 3
+    100486: Stag, lugsfeste
+    100488: Stag, lugsfeste 1
+    100490: Stag, lugsfeste 10
+    100492: Stag, lugsfeste 11
+    100494: Stag, lugsfeste 12
+    100496: Stag, lugsfeste 13
+    100498: Stag, lugsfeste 14
+    100500: Stag, lugsfeste 15
+    100502: Stag, lugsfeste 16
+    100504: Stag, lugsfeste 17
+    100506: Stag, lugsfeste 18
+    100508: Stag, lugsfeste 19
+    100510: Stag, lugsfeste 2
+    100512: Stag, lugsfeste 20
+    100514: Stag, lugsfeste 21
+    100516: Stag, lugsfeste 22
+    100518: Stag, lugsfeste 23
+    100520: Stag, lugsfeste 3
+    100522: Stag, lugsfeste 4
+    100524: Stag, lugsfeste 5
+    100526: Stag, lugsfeste 6
+    100528: Stag, lugsfeste 7
+    100530: Stag, lugsfeste 8
+    100532: Stag, lugsfeste 9
+    100534: Stag, lugsfeste komplett
+    100536: Stag, lugsfeste komplett 1
+    100538: Stag, lugsfeste komplett 10
+    100540: Stag, lugsfeste komplett 11
+    100542: Stag, lugsfeste komplett 2
+    100544: Stag, lugsfeste komplett 3
+    100546: Stag, lugsfeste komplett 4
+    100548: Stag, lugsfeste komplett 5
+    100550: Stag, lugsfeste komplett 6
+    100552: Stag, lugsfeste komplett 7
+    100554: Stag, lugsfeste komplett 8
+    100556: Stag, lugsfeste komplett 9
+    100558: Stativ med hjul
+    100560: Stativ, halvt
+    100562: Stativ, halvt 1
+    100564: Stativ, komplett
+    100566: Stoprtromme, komplett
+    100568: Stramming, komplett
+    100570: Stramming, komplett 1
+    100572: Stramming, komplett 10
+    100574: Stramming, komplett 11
+    100576: Stramming, komplett 2
+    100578: Stramming, komplett 3
+    100580: Stramming, komplett 4
+    100582: Stramming, komplett 5
+    100584: Stramming, komplett 6
+    100586: Stramming, komplett 7
+    100588: Stramming, komplett 8
+    100590: Stramming, komplett 9
+    100592: Tilt brake
+    100594: Top Bolt
+    100596: Top Bolt 1
+    100598: Top Bolt 2
+    100600: Top Bolt 3
+    100602: Trommeshell
+    100604: Tube
+    100606: Tube 1
+    100608: Tube 2
+    100610: Tube 3
+    100612: Tverrbjelke. stativ
+    100614: Tverrbjelke. stativ 1
+    100616: Tverrbjelke. stativ#1
+    100618: Tverrbjelke. stativ#1 1
+    100620: Wheel
+    100622: Wheel 1
+    100624: Wheel 2
+    100626: Wheel 3
+    100628: Wheel 72mm
+    100630: Wheel 72mm 1
+    100632: Wheel 72mm 2
+    100634: Wheel 72mm 3
+    100636: Wheel bolt
+    100638: Wheel bolt 1
+    100640: Wheel bolt 2
+    100642: Wheel bolt 3
+    100644: Wheel bolt 4
+    100646: Wheel bolt 5
+    100648: Wheel bolt 6
+    100650: Wheel bolt 7
+    100652: Wheelbolt
+    100654: Wheelbolt 1
+    100656: Wheelbolt 2
+    100658: Wheelbolt 3
+    400000: 1/4 connection
+    400002: 1/4 connection 1
+    400004: 1/4 connection 2
+    400006: 1/4 connection 3
+    400008: 1/4 connection 4
+    400010: 1/4 connection 5
+    400012: 1/4 connection 6
+    400014: 1/4 connection 7
+    400016: Bass drum
+    400018: //RootNode
+    400020: Bearing
+    400022: Bearing 1
+    400024: Bearing 2
+    400026: Bearing 3
+    400028: Bolt 2
+    400030: Bolt 2 1
+    400032: Bolt 2 complete
+    400034: Bolt Complete
+    400036: Bolt for handle
+    400038: Bracket
+    400040: Bracket 1
+    400042: Bracket 2
+    400044: Bracket 3
+    400046: Bracket 4
+    400048: Bracket 5
+    400050: Bracket 6
+    400052: Bracket 7
+    400054: Brackets
+    400056: Brackets 1
+    400058: Brackets 2
+    400060: Brackets 3
+    400062: Brakett
+    400064: Brakett 1
+    400066: Demper
+    400068: Demper 1
+    400070: Demper 1/2
+    400072: Demper 1/2 1
+    400074: Demper 1/2 10
+    400076: Demper 1/2 11
+    400078: Demper 1/2 12
+    400080: Demper 1/2 13
+    400082: Demper 1/2 14
+    400084: Demper 1/2 15
+    400086: Demper 1/2 2
+    400088: Demper 1/2 3
+    400090: Demper 1/2 4
+    400092: Demper 1/2 5
+    400094: Demper 1/2 6
+    400096: Demper 1/2 7
+    400098: Demper 1/2 8
+    400100: Demper 1/2 9
+    400102: Demper 2
+    400104: Demper 3
+    400106: Demper 4
+    400108: Demper 5
+    400110: Demper 6
+    400112: Demper 7
+    400114: Eye for handle
+    400116: Eyebolt
+    400118: Handle
+    400120: Image 434
+    400122: Lug, halv
+    400124: Lug, halv 1
+    400126: Lug, halv 10
+    400128: Lug, halv 11
+    400130: Lug, halv 12
+    400132: Lug, halv 13
+    400134: Lug, halv 14
+    400136: Lug, halv 15
+    400138: Lug, halv 16
+    400140: Lug, halv 17
+    400142: Lug, halv 18
+    400144: Lug, halv 19
+    400146: Lug, halv 2
+    400148: Lug, halv 20
+    400150: Lug, halv 21
+    400152: Lug, halv 22
+    400154: Lug, halv 23
+    400156: Lug, halv 24
+    400158: Lug, halv 25
+    400160: Lug, halv 26
+    400162: Lug, halv 27
+    400164: Lug, halv 28
+    400166: Lug, halv 29
+    400168: Lug, halv 3
+    400170: Lug, halv 30
+    400172: Lug, halv 31
+    400174: Lug, halv 32
+    400176: Lug, halv 33
+    400178: Lug, halv 34
+    400180: Lug, halv 35
+    400182: Lug, halv 36
+    400184: Lug, halv 37
+    400186: Lug, halv 38
+    400188: Lug, halv 39
+    400190: Lug, halv 4
+    400192: Lug, halv 40
+    400194: Lug, halv 41
+    400196: Lug, halv 42
+    400198: Lug, halv 43
+    400200: Lug, halv 44
+    400202: Lug, halv 45
+    400204: Lug, halv 46
+    400206: Lug, halv 47
+    400208: Lug, halv 5
+    400210: Lug, halv 6
+    400212: Lug, halv 7
+    400214: Lug, halv 8
+    400216: Lug, halv 9
+    400218: Lug, komplett
+    400220: Lug, komplett 1
+    400222: Lug, komplett 10
+    400224: Lug, komplett 11
+    400226: Lug, komplett 12
+    400228: Lug, komplett 13
+    400230: Lug, komplett 14
+    400232: Lug, komplett 15
+    400234: Lug, komplett 16
+    400236: Lug, komplett 17
+    400238: Lug, komplett 18
+    400240: Lug, komplett 19
+    400242: Lug, komplett 2
+    400244: Lug, komplett 20
+    400246: Lug, komplett 21
+    400248: Lug, komplett 22
+    400250: Lug, komplett 23
+    400252: Lug, komplett 3
+    400254: Lug, komplett 4
+    400256: Lug, komplett 5
+    400258: Lug, komplett 6
+    400260: Lug, komplett 7
+    400262: Lug, komplett 8
+    400264: Lug, komplett 9
+    400266: Lugs-skrue
+    400268: Lugs-skrue 1
+    400270: Lugs-skrue 10
+    400272: Lugs-skrue 11
+    400274: Lugs-skrue 12
+    400276: Lugs-skrue 13
+    400278: Lugs-skrue 14
+    400280: Lugs-skrue 15
+    400282: Lugs-skrue 16
+    400284: Lugs-skrue 17
+    400286: Lugs-skrue 18
+    400288: Lugs-skrue 19
+    400290: Lugs-skrue 2
+    400292: Lugs-skrue 20
+    400294: Lugs-skrue 21
+    400296: Lugs-skrue 22
+    400298: Lugs-skrue 23
+    400300: Lugs-skrue 3
+    400302: Lugs-skrue 4
+    400304: Lugs-skrue 5
+    400306: Lugs-skrue 6
+    400308: Lugs-skrue 7
+    400310: Lugs-skrue 8
+    400312: Lugs-skrue 9
+    400314: Lugs-skrue m/stang
+    400316: Lugs-skrue m/stang 1
+    400318: Lugs-skrue m/stang 10
+    400320: Lugs-skrue m/stang 11
+    400322: Lugs-skrue m/stang 12
+    400324: Lugs-skrue m/stang 13
+    400326: Lugs-skrue m/stang 14
+    400328: Lugs-skrue m/stang 15
+    400330: Lugs-skrue m/stang 16
+    400332: Lugs-skrue m/stang 17
+    400334: Lugs-skrue m/stang 18
+    400336: Lugs-skrue m/stang 19
+    400338: Lugs-skrue m/stang 2
+    400340: Lugs-skrue m/stang 20
+    400342: Lugs-skrue m/stang 21
+    400344: Lugs-skrue m/stang 22
+    400346: Lugs-skrue m/stang 23
+    400348: Lugs-skrue m/stang 3
+    400350: Lugs-skrue m/stang 4
+    400352: Lugs-skrue m/stang 5
+    400354: Lugs-skrue m/stang 6
+    400356: Lugs-skrue m/stang 7
+    400358: Lugs-skrue m/stang 8
+    400360: Lugs-skrue m/stang 9
+    400362: Lugsfeste
+    400364: Lugsfeste 1
+    400366: Lugsfeste 10
+    400368: Lugsfeste 11
+    400370: Lugsfeste 12
+    400372: Lugsfeste 13
+    400374: Lugsfeste 14
+    400376: Lugsfeste 15
+    400378: Lugsfeste 16
+    400380: Lugsfeste 17
+    400382: Lugsfeste 18
+    400384: Lugsfeste 19
+    400386: Lugsfeste 2
+    400388: Lugsfeste 20
+    400390: Lugsfeste 21
+    400392: Lugsfeste 22
+    400394: Lugsfeste 23
+    400396: Lugsfeste 3
+    400398: Lugsfeste 4
+    400400: Lugsfeste 5
+    400402: Lugsfeste 6
+    400404: Lugsfeste 7
+    400406: Lugsfeste 8
+    400408: Lugsfeste 9
+    400410: Lugsfeste, komplett
+    400412: Lugsfeste, komplett 1
+    400414: Lugsfeste, komplett 10
+    400416: Lugsfeste, komplett 11
+    400418: Lugsfeste, komplett 2
+    400420: Lugsfeste, komplett 3
+    400422: Lugsfeste, komplett 4
+    400424: Lugsfeste, komplett 5
+    400426: Lugsfeste, komplett 6
+    400428: Lugsfeste, komplett 7
+    400430: Lugsfeste, komplett 8
+    400432: Lugsfeste, komplett 9
+    400434: Nut and Bolt 1/2
+    400436: Nut and Bolt 1/2 1
+    400438: Nut and Bolt 1/2 2
+    400440: Nut and Bolt 1/2 3
+    400442: Nut and Bolt 1/2 4
+    400444: Nut and Bolt 1/2 5
+    400446: Nut and Bolt 1/2 6
+    400448: Nut and Bolt 1/2 7
+    400450: Rim
+    400452: Rim 1
+    400454: Rim, halv
+    400456: Rim, halv 1
+    400458: Rim, halv 2
+    400460: Rim, halv 3
+    400462: Skinn
+    400464: Skinn#2
+    400466: Skrue. stabilisator
+    400468: Skrue. stabilisator 1
+    400470: Skrue. stabilisator 2
+    400472: Skrue. stabilisator 3
+    400474: Spacer for bolt
+    400476: Spacer for bolt 1
+    400478: Stabilisator
+    400480: Stabilisator 1
+    400482: Stabilisator 2
+    400484: Stabilisator 3
+    400486: Stag, lugsfeste
+    400488: Stag, lugsfeste 1
+    400490: Stag, lugsfeste 10
+    400492: Stag, lugsfeste 11
+    400494: Stag, lugsfeste 12
+    400496: Stag, lugsfeste 13
+    400498: Stag, lugsfeste 14
+    400500: Stag, lugsfeste 15
+    400502: Stag, lugsfeste 16
+    400504: Stag, lugsfeste 17
+    400506: Stag, lugsfeste 18
+    400508: Stag, lugsfeste 19
+    400510: Stag, lugsfeste 2
+    400512: Stag, lugsfeste 20
+    400514: Stag, lugsfeste 21
+    400516: Stag, lugsfeste 22
+    400518: Stag, lugsfeste 23
+    400520: Stag, lugsfeste 3
+    400522: Stag, lugsfeste 4
+    400524: Stag, lugsfeste 5
+    400526: Stag, lugsfeste 6
+    400528: Stag, lugsfeste 7
+    400530: Stag, lugsfeste 8
+    400532: Stag, lugsfeste 9
+    400534: Stag, lugsfeste komplett
+    400536: Stag, lugsfeste komplett 1
+    400538: Stag, lugsfeste komplett 10
+    400540: Stag, lugsfeste komplett 11
+    400542: Stag, lugsfeste komplett 2
+    400544: Stag, lugsfeste komplett 3
+    400546: Stag, lugsfeste komplett 4
+    400548: Stag, lugsfeste komplett 5
+    400550: Stag, lugsfeste komplett 6
+    400552: Stag, lugsfeste komplett 7
+    400554: Stag, lugsfeste komplett 8
+    400556: Stag, lugsfeste komplett 9
+    400558: Stativ med hjul
+    400560: Stativ, halvt
+    400562: Stativ, halvt 1
+    400564: Stativ, komplett
+    400566: Stoprtromme, komplett
+    400568: Stramming, komplett
+    400570: Stramming, komplett 1
+    400572: Stramming, komplett 10
+    400574: Stramming, komplett 11
+    400576: Stramming, komplett 2
+    400578: Stramming, komplett 3
+    400580: Stramming, komplett 4
+    400582: Stramming, komplett 5
+    400584: Stramming, komplett 6
+    400586: Stramming, komplett 7
+    400588: Stramming, komplett 8
+    400590: Stramming, komplett 9
+    400592: Tilt brake
+    400594: Top Bolt
+    400596: Top Bolt 1
+    400598: Top Bolt 2
+    400600: Top Bolt 3
+    400602: Trommeshell
+    400604: Tube
+    400606: Tube 1
+    400608: Tube 2
+    400610: Tube 3
+    400612: Tverrbjelke. stativ
+    400614: Tverrbjelke. stativ 1
+    400616: Tverrbjelke. stativ#1
+    400618: Tverrbjelke. stativ#1 1
+    400620: Wheel
+    400622: Wheel 1
+    400624: Wheel 2
+    400626: Wheel 3
+    400628: Wheel 72mm
+    400630: Wheel 72mm 1
+    400632: Wheel 72mm 2
+    400634: Wheel 72mm 3
+    400636: Wheel bolt
+    400638: Wheel bolt 1
+    400640: Wheel bolt 2
+    400642: Wheel bolt 3
+    400644: Wheel bolt 4
+    400646: Wheel bolt 5
+    400648: Wheel bolt 6
+    400650: Wheel bolt 7
+    400652: Wheelbolt
+    400654: Wheelbolt 1
+    400656: Wheelbolt 2
+    400658: Wheelbolt 3
+    2300000: 1/4 connection
+    2300002: 1/4 connection 1
+    2300004: 1/4 connection 2
+    2300006: 1/4 connection 3
+    2300008: 1/4 connection 4
+    2300010: 1/4 connection 5
+    2300012: 1/4 connection 6
+    2300014: 1/4 connection 7
+    2300016: Bearing
+    2300018: Bearing 1
+    2300020: Bearing 2
+    2300022: Bearing 3
+    2300024: Bolt 2
+    2300026: Bolt 2 1
+    2300028: Bolt for handle
+    2300030: Bracket
+    2300032: Bracket 1
+    2300034: Bracket 2
+    2300036: Bracket 3
+    2300038: Bracket 4
+    2300040: Bracket 5
+    2300042: Bracket 6
+    2300044: Bracket 7
+    2300046: Demper 1/2
+    2300048: Demper 1/2 1
+    2300050: Demper 1/2 10
+    2300052: Demper 1/2 11
+    2300054: Demper 1/2 12
+    2300056: Demper 1/2 13
+    2300058: Demper 1/2 14
+    2300060: Demper 1/2 15
+    2300062: Demper 1/2 2
+    2300064: Demper 1/2 3
+    2300066: Demper 1/2 4
+    2300068: Demper 1/2 5
+    2300070: Demper 1/2 6
+    2300072: Demper 1/2 7
+    2300074: Demper 1/2 8
+    2300076: Demper 1/2 9
+    2300078: Eye for handle
+    2300080: Handle
+    2300082: Image 434
+    2300084: Lug, halv
+    2300086: Lug, halv 1
+    2300088: Lug, halv 10
+    2300090: Lug, halv 11
+    2300092: Lug, halv 12
+    2300094: Lug, halv 13
+    2300096: Lug, halv 14
+    2300098: Lug, halv 15
+    2300100: Lug, halv 16
+    2300102: Lug, halv 17
+    2300104: Lug, halv 18
+    2300106: Lug, halv 19
+    2300108: Lug, halv 2
+    2300110: Lug, halv 20
+    2300112: Lug, halv 21
+    2300114: Lug, halv 22
+    2300116: Lug, halv 23
+    2300118: Lug, halv 24
+    2300120: Lug, halv 25
+    2300122: Lug, halv 26
+    2300124: Lug, halv 27
+    2300126: Lug, halv 28
+    2300128: Lug, halv 29
+    2300130: Lug, halv 3
+    2300132: Lug, halv 30
+    2300134: Lug, halv 31
+    2300136: Lug, halv 32
+    2300138: Lug, halv 33
+    2300140: Lug, halv 34
+    2300142: Lug, halv 35
+    2300144: Lug, halv 36
+    2300146: Lug, halv 37
+    2300148: Lug, halv 38
+    2300150: Lug, halv 39
+    2300152: Lug, halv 4
+    2300154: Lug, halv 40
+    2300156: Lug, halv 41
+    2300158: Lug, halv 42
+    2300160: Lug, halv 43
+    2300162: Lug, halv 44
+    2300164: Lug, halv 45
+    2300166: Lug, halv 46
+    2300168: Lug, halv 47
+    2300170: Lug, halv 5
+    2300172: Lug, halv 6
+    2300174: Lug, halv 7
+    2300176: Lug, halv 8
+    2300178: Lug, halv 9
+    2300180: Lugs-skrue
+    2300182: Lugs-skrue 1
+    2300184: Lugs-skrue 10
+    2300186: Lugs-skrue 11
+    2300188: Lugs-skrue 12
+    2300190: Lugs-skrue 13
+    2300192: Lugs-skrue 14
+    2300194: Lugs-skrue 15
+    2300196: Lugs-skrue 16
+    2300198: Lugs-skrue 17
+    2300200: Lugs-skrue 18
+    2300202: Lugs-skrue 19
+    2300204: Lugs-skrue 2
+    2300206: Lugs-skrue 20
+    2300208: Lugs-skrue 21
+    2300210: Lugs-skrue 22
+    2300212: Lugs-skrue 23
+    2300214: Lugs-skrue 3
+    2300216: Lugs-skrue 4
+    2300218: Lugs-skrue 5
+    2300220: Lugs-skrue 6
+    2300222: Lugs-skrue 7
+    2300224: Lugs-skrue 8
+    2300226: Lugs-skrue 9
+    2300228: Lugs-skrue m/stang
+    2300230: Lugs-skrue m/stang 1
+    2300232: Lugs-skrue m/stang 10
+    2300234: Lugs-skrue m/stang 11
+    2300236: Lugs-skrue m/stang 12
+    2300238: Lugs-skrue m/stang 13
+    2300240: Lugs-skrue m/stang 14
+    2300242: Lugs-skrue m/stang 15
+    2300244: Lugs-skrue m/stang 16
+    2300246: Lugs-skrue m/stang 17
+    2300248: Lugs-skrue m/stang 18
+    2300250: Lugs-skrue m/stang 19
+    2300252: Lugs-skrue m/stang 2
+    2300254: Lugs-skrue m/stang 20
+    2300256: Lugs-skrue m/stang 21
+    2300258: Lugs-skrue m/stang 22
+    2300260: Lugs-skrue m/stang 23
+    2300262: Lugs-skrue m/stang 3
+    2300264: Lugs-skrue m/stang 4
+    2300266: Lugs-skrue m/stang 5
+    2300268: Lugs-skrue m/stang 6
+    2300270: Lugs-skrue m/stang 7
+    2300272: Lugs-skrue m/stang 8
+    2300274: Lugs-skrue m/stang 9
+    2300276: Lugsfeste
+    2300278: Lugsfeste 1
+    2300280: Lugsfeste 10
+    2300282: Lugsfeste 11
+    2300284: Lugsfeste 12
+    2300286: Lugsfeste 13
+    2300288: Lugsfeste 14
+    2300290: Lugsfeste 15
+    2300292: Lugsfeste 16
+    2300294: Lugsfeste 17
+    2300296: Lugsfeste 18
+    2300298: Lugsfeste 19
+    2300300: Lugsfeste 2
+    2300302: Lugsfeste 20
+    2300304: Lugsfeste 21
+    2300306: Lugsfeste 22
+    2300308: Lugsfeste 23
+    2300310: Lugsfeste 3
+    2300312: Lugsfeste 4
+    2300314: Lugsfeste 5
+    2300316: Lugsfeste 6
+    2300318: Lugsfeste 7
+    2300320: Lugsfeste 8
+    2300322: Lugsfeste 9
+    2300324: Nut and Bolt 1/2
+    2300326: Nut and Bolt 1/2 1
+    2300328: Nut and Bolt 1/2 2
+    2300330: Nut and Bolt 1/2 3
+    2300332: Nut and Bolt 1/2 4
+    2300334: Nut and Bolt 1/2 5
+    2300336: Nut and Bolt 1/2 6
+    2300338: Nut and Bolt 1/2 7
+    2300340: Rim, halv
+    2300342: Rim, halv 1
+    2300344: Rim, halv 2
+    2300346: Rim, halv 3
+    2300348: Skinn
+    2300350: Skinn#2
+    2300352: Skrue. stabilisator
+    2300354: Skrue. stabilisator 1
+    2300356: Skrue. stabilisator 2
+    2300358: Skrue. stabilisator 3
+    2300360: Spacer for bolt
+    2300362: Spacer for bolt 1
+    2300364: Stabilisator
+    2300366: Stabilisator 1
+    2300368: Stabilisator 2
+    2300370: Stabilisator 3
+    2300372: Stag, lugsfeste
+    2300374: Stag, lugsfeste 1
+    2300376: Stag, lugsfeste 10
+    2300378: Stag, lugsfeste 11
+    2300380: Stag, lugsfeste 12
+    2300382: Stag, lugsfeste 13
+    2300384: Stag, lugsfeste 14
+    2300386: Stag, lugsfeste 15
+    2300388: Stag, lugsfeste 16
+    2300390: Stag, lugsfeste 17
+    2300392: Stag, lugsfeste 18
+    2300394: Stag, lugsfeste 19
+    2300396: Stag, lugsfeste 2
+    2300398: Stag, lugsfeste 20
+    2300400: Stag, lugsfeste 21
+    2300402: Stag, lugsfeste 22
+    2300404: Stag, lugsfeste 23
+    2300406: Stag, lugsfeste 3
+    2300408: Stag, lugsfeste 4
+    2300410: Stag, lugsfeste 5
+    2300412: Stag, lugsfeste 6
+    2300414: Stag, lugsfeste 7
+    2300416: Stag, lugsfeste 8
+    2300418: Stag, lugsfeste 9
+    2300420: Top Bolt
+    2300422: Top Bolt 1
+    2300424: Top Bolt 2
+    2300426: Top Bolt 3
+    2300428: Trommeshell
+    2300430: Tube
+    2300432: Tube 1
+    2300434: Tube 2
+    2300436: Tube 3
+    2300438: Tverrbjelke. stativ
+    2300440: Tverrbjelke. stativ 1
+    2300442: Tverrbjelke. stativ#1
+    2300444: Tverrbjelke. stativ#1 1
+    2300446: Wheel
+    2300448: Wheel 1
+    2300450: Wheel 2
+    2300452: Wheel 3
+    3300000: 1/4 connection
+    3300002: 1/4 connection 1
+    3300004: 1/4 connection 2
+    3300006: 1/4 connection 3
+    3300008: 1/4 connection 4
+    3300010: 1/4 connection 5
+    3300012: 1/4 connection 6
+    3300014: 1/4 connection 7
+    3300016: Bearing
+    3300018: Bearing 1
+    3300020: Bearing 2
+    3300022: Bearing 3
+    3300024: Bolt 2
+    3300026: Bolt 2 1
+    3300028: Bolt for handle
+    3300030: Bracket
+    3300032: Bracket 1
+    3300034: Bracket 2
+    3300036: Bracket 3
+    3300038: Bracket 4
+    3300040: Bracket 5
+    3300042: Bracket 6
+    3300044: Bracket 7
+    3300046: Demper 1/2
+    3300048: Demper 1/2 1
+    3300050: Demper 1/2 10
+    3300052: Demper 1/2 11
+    3300054: Demper 1/2 12
+    3300056: Demper 1/2 13
+    3300058: Demper 1/2 14
+    3300060: Demper 1/2 15
+    3300062: Demper 1/2 2
+    3300064: Demper 1/2 3
+    3300066: Demper 1/2 4
+    3300068: Demper 1/2 5
+    3300070: Demper 1/2 6
+    3300072: Demper 1/2 7
+    3300074: Demper 1/2 8
+    3300076: Demper 1/2 9
+    3300078: Eye for handle
+    3300080: Handle
+    3300082: Image 434
+    3300084: Lug, halv
+    3300086: Lug, halv 1
+    3300088: Lug, halv 10
+    3300090: Lug, halv 11
+    3300092: Lug, halv 12
+    3300094: Lug, halv 13
+    3300096: Lug, halv 14
+    3300098: Lug, halv 15
+    3300100: Lug, halv 16
+    3300102: Lug, halv 17
+    3300104: Lug, halv 18
+    3300106: Lug, halv 19
+    3300108: Lug, halv 2
+    3300110: Lug, halv 20
+    3300112: Lug, halv 21
+    3300114: Lug, halv 22
+    3300116: Lug, halv 23
+    3300118: Lug, halv 24
+    3300120: Lug, halv 25
+    3300122: Lug, halv 26
+    3300124: Lug, halv 27
+    3300126: Lug, halv 28
+    3300128: Lug, halv 29
+    3300130: Lug, halv 3
+    3300132: Lug, halv 30
+    3300134: Lug, halv 31
+    3300136: Lug, halv 32
+    3300138: Lug, halv 33
+    3300140: Lug, halv 34
+    3300142: Lug, halv 35
+    3300144: Lug, halv 36
+    3300146: Lug, halv 37
+    3300148: Lug, halv 38
+    3300150: Lug, halv 39
+    3300152: Lug, halv 4
+    3300154: Lug, halv 40
+    3300156: Lug, halv 41
+    3300158: Lug, halv 42
+    3300160: Lug, halv 43
+    3300162: Lug, halv 44
+    3300164: Lug, halv 45
+    3300166: Lug, halv 46
+    3300168: Lug, halv 47
+    3300170: Lug, halv 5
+    3300172: Lug, halv 6
+    3300174: Lug, halv 7
+    3300176: Lug, halv 8
+    3300178: Lug, halv 9
+    3300180: Lugs-skrue
+    3300182: Lugs-skrue 1
+    3300184: Lugs-skrue 10
+    3300186: Lugs-skrue 11
+    3300188: Lugs-skrue 12
+    3300190: Lugs-skrue 13
+    3300192: Lugs-skrue 14
+    3300194: Lugs-skrue 15
+    3300196: Lugs-skrue 16
+    3300198: Lugs-skrue 17
+    3300200: Lugs-skrue 18
+    3300202: Lugs-skrue 19
+    3300204: Lugs-skrue 2
+    3300206: Lugs-skrue 20
+    3300208: Lugs-skrue 21
+    3300210: Lugs-skrue 22
+    3300212: Lugs-skrue 23
+    3300214: Lugs-skrue 3
+    3300216: Lugs-skrue 4
+    3300218: Lugs-skrue 5
+    3300220: Lugs-skrue 6
+    3300222: Lugs-skrue 7
+    3300224: Lugs-skrue 8
+    3300226: Lugs-skrue 9
+    3300228: Lugs-skrue m/stang
+    3300230: Lugs-skrue m/stang 1
+    3300232: Lugs-skrue m/stang 10
+    3300234: Lugs-skrue m/stang 11
+    3300236: Lugs-skrue m/stang 12
+    3300238: Lugs-skrue m/stang 13
+    3300240: Lugs-skrue m/stang 14
+    3300242: Lugs-skrue m/stang 15
+    3300244: Lugs-skrue m/stang 16
+    3300246: Lugs-skrue m/stang 17
+    3300248: Lugs-skrue m/stang 18
+    3300250: Lugs-skrue m/stang 19
+    3300252: Lugs-skrue m/stang 2
+    3300254: Lugs-skrue m/stang 20
+    3300256: Lugs-skrue m/stang 21
+    3300258: Lugs-skrue m/stang 22
+    3300260: Lugs-skrue m/stang 23
+    3300262: Lugs-skrue m/stang 3
+    3300264: Lugs-skrue m/stang 4
+    3300266: Lugs-skrue m/stang 5
+    3300268: Lugs-skrue m/stang 6
+    3300270: Lugs-skrue m/stang 7
+    3300272: Lugs-skrue m/stang 8
+    3300274: Lugs-skrue m/stang 9
+    3300276: Lugsfeste
+    3300278: Lugsfeste 1
+    3300280: Lugsfeste 10
+    3300282: Lugsfeste 11
+    3300284: Lugsfeste 12
+    3300286: Lugsfeste 13
+    3300288: Lugsfeste 14
+    3300290: Lugsfeste 15
+    3300292: Lugsfeste 16
+    3300294: Lugsfeste 17
+    3300296: Lugsfeste 18
+    3300298: Lugsfeste 19
+    3300300: Lugsfeste 2
+    3300302: Lugsfeste 20
+    3300304: Lugsfeste 21
+    3300306: Lugsfeste 22
+    3300308: Lugsfeste 23
+    3300310: Lugsfeste 3
+    3300312: Lugsfeste 4
+    3300314: Lugsfeste 5
+    3300316: Lugsfeste 6
+    3300318: Lugsfeste 7
+    3300320: Lugsfeste 8
+    3300322: Lugsfeste 9
+    3300324: Nut and Bolt 1/2
+    3300326: Nut and Bolt 1/2 1
+    3300328: Nut and Bolt 1/2 2
+    3300330: Nut and Bolt 1/2 3
+    3300332: Nut and Bolt 1/2 4
+    3300334: Nut and Bolt 1/2 5
+    3300336: Nut and Bolt 1/2 6
+    3300338: Nut and Bolt 1/2 7
+    3300340: Rim, halv
+    3300342: Rim, halv 1
+    3300344: Rim, halv 2
+    3300346: Rim, halv 3
+    3300348: Skinn
+    3300350: Skinn#2
+    3300352: Skrue. stabilisator
+    3300354: Skrue. stabilisator 1
+    3300356: Skrue. stabilisator 2
+    3300358: Skrue. stabilisator 3
+    3300360: Spacer for bolt
+    3300362: Spacer for bolt 1
+    3300364: Stabilisator
+    3300366: Stabilisator 1
+    3300368: Stabilisator 2
+    3300370: Stabilisator 3
+    3300372: Stag, lugsfeste
+    3300374: Stag, lugsfeste 1
+    3300376: Stag, lugsfeste 10
+    3300378: Stag, lugsfeste 11
+    3300380: Stag, lugsfeste 12
+    3300382: Stag, lugsfeste 13
+    3300384: Stag, lugsfeste 14
+    3300386: Stag, lugsfeste 15
+    3300388: Stag, lugsfeste 16
+    3300390: Stag, lugsfeste 17
+    3300392: Stag, lugsfeste 18
+    3300394: Stag, lugsfeste 19
+    3300396: Stag, lugsfeste 2
+    3300398: Stag, lugsfeste 20
+    3300400: Stag, lugsfeste 21
+    3300402: Stag, lugsfeste 22
+    3300404: Stag, lugsfeste 23
+    3300406: Stag, lugsfeste 3
+    3300408: Stag, lugsfeste 4
+    3300410: Stag, lugsfeste 5
+    3300412: Stag, lugsfeste 6
+    3300414: Stag, lugsfeste 7
+    3300416: Stag, lugsfeste 8
+    3300418: Stag, lugsfeste 9
+    3300420: Top Bolt
+    3300422: Top Bolt 1
+    3300424: Top Bolt 2
+    3300426: Top Bolt 3
+    3300428: Trommeshell
+    3300430: Tube
+    3300432: Tube 1
+    3300434: Tube 2
+    3300436: Tube 3
+    3300438: Tverrbjelke. stativ
+    3300440: Tverrbjelke. stativ 1
+    3300442: Tverrbjelke. stativ#1
+    3300444: Tverrbjelke. stativ#1 1
+    3300446: Wheel
+    3300448: Wheel 1
+    3300450: Wheel 2
+    3300452: Wheel 3
+    4300000: Mesh Wheel
+    4300002: Mesh Bearing
+    4300004: Mesh Tube
+    4300006: Mesh Bracket
+    4300008: Mesh Top Bolt
+    4300010: Mesh Nut and Bolt 1/2
+    4300012: Mesh Tverrbjelke. stativ
+    4300014: Mesh Tverrbjelke. stativ#1
+    4300016: Mesh Stabilisator
+    4300018: Mesh Skrue. stabilisator
+    4300020: Mesh 1/4 connection
+    4300022: Mesh Demper 1/2
+    4300024: Mesh Handle
+    4300026: Mesh Spacer for bolt
+    4300028: Mesh Eye for handle
+    4300030: Mesh Bolt for handle
+    4300032: Mesh Lugs-skrue m/stang
+    4300034: Mesh Lugs-skrue
+    4300036: Mesh Lug, halv
+    4300038: Mesh Lug, halv
+    4300040: Mesh Lugsfeste
+    4300042: Mesh Stag, lugsfeste
+    4300044: Mesh Rim, halv
+    4300046: Mesh Trommeshell
+    4300048: Mesh Skinn
+    4300050: Mesh Skinn#2
+    4300052: Mesh Skinn#2
+    4300054: Mesh Bolt 2
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

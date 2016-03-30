@@ -1,0 +1,203 @@
+newmtl cables
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 0.205 0.205 0.205
+Ks 0.955 0.955 0.955
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl cuerdas
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 0.8 0.8 0.8
+Ks 0.715 0.715 0.715
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd WoodFine0011_M.jpg
+map_Ka WoodFine0011_M.jpg
+map_Ks WoodFine0011_M.jpg
+map_bump WoodFine0011_M.jpg
+bump WoodFine0011_M.jpg
+
+newmtl mariposa
+Kd 0.678431 0.678431 0.678431
+Ke 0 0 0
+Ka 0.83 0.83 0.83
+Ks 0.36 0.36 0.36
+Ns 189
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd WoodFine0011_M.jpg
+map_Ka WoodFine0011_M.jpg
+map_Ks WoodFine0011_M.jpg
+
+newmtl mastil
+Kd 0.709804 0.329412 0.101961
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 550
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd WoodFine0011_M.jpg
+map_Ka WoodFine0011_M.jpg
+map_Ks WoodFine0011_M.jpg
+
+newmtl mastil_Negro
+Kd 0.678431 0.678431 0.678431
+Ke 0 0 0
+Ka 0 0 0
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd violin.jpg
+map_Ka violin.jpg
+map_Ks violin.jpg
+
+newmtl puente
+Kd 0.678431 0.678431 0.678431
+Ke 0 0 0
+Ka 0.8 0.8 0.8
+Ks 0.15 0.15 0.15
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd WoodFine0012_M.jpg
+map_Ka WoodFine0012_M.jpg
+map_bump WoodFine0012_M.jpg
+bump WoodFine0012_M.jpg
+
+newmtl puente_inferior
+Kd 0.678431 0.678431 0.678431
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 300
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd WoodFine0011_M.jpg
+map_Ka WoodFine0011_M.jpg
+map_Ks WoodFine0011_M.jpg
+map_bump WoodFine0011_M.jpg
+bump WoodFine0011_M.jpg
+
+newmtl tornillo
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 0.205 0.205 0.205
+Ks 0.655 0.655 0.655
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl vara
+Kd 0.678431 0.678431 0.678431
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd violin.jpg
+map_Ka violin.jpg
+map_Ks violin.jpg
+map_bump WoodFine0011_M.jpg
+bump WoodFine0011_M.jpg
+
+newmtl vara_cable
+Kd 0.678431 0.678431 0.678431
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl vara_caucho
+Kd 0.74902 0.74902 0.74902
+Ke 0 0 0
+Ka 0.2 0.2 0.2
+Ks 0.4 0.4 0.4
+Ns 150
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl vara_cuerda
+Kd 0.639216 0.568627 0.337255
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.315 0.315 0.315
+Ns 59
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_bump WoodFine0011_M.jpg
+bump WoodFine0011_M.jpg
+
+newmtl vara_metal
+Kd 0.678431 0.678431 0.678431
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl violin
+Kd 0.678431 0.678431 0.678431
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd violin.jpg
+map_Ka violin.jpg
+map_Ks violin.jpg
+map_bump WoodFine0011_M.jpg
+bump WoodFine0011_M.jpg
+
+newmtl violin_detras
+Kd 0.678431 0.678431 0.678431
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.5 0.5 0.5
+Ns 500
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd violin.jpg
+map_Ka violin.jpg
+map_Ks violin.jpg
+
