@@ -1,0 +1,12 @@
+Thank you for downloading the PBR Mini Truck Vehicle, we hope you will like it!
+
+In this package you will find:
+-The Mini Truck fbx (1320 tris) and a lower poly collider.
+-4 1024x1024 albedo (color variations), 1 ambient occlusion, 1 normal map, 1 specular textures for the vehicle itself.
+-1 512x512 albedo, ambient occlusion, normal map, specular textures for the wheels.
+-a wheel FBX (240 tris) if you want to use on other vehicles.
+-2 prefabs (one including the unity car controller, another "naked").
+
+The material should be used in a specular setup. Just drag the textures in the correct slots in the standard unity shader (specular setup).
+
+The Car scripts and the Audio from the driving scene are all from the Standard Assets Pack.
