@@ -25,9 +25,10 @@ time, mark, audio, video {
   margin: 0;
   padding: 0;
   border: 0;
-  font: inherit;
   vertical-align: baseline;
 }
+
+
 
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -60,7 +61,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
   color:#222222;
-  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+  /*font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif; */
   letter-spacing: -1px;
 }
 
@@ -95,15 +96,22 @@ p {
   margin: 10px 0 15px 0;
 }
 
+p2 {
+  margin: 5px 0 5px 0;
+}
+
 footer p {
   color: #f2f2f2;
+  margin-top: -5px;
+  margin-bottom: -5px;
+  text-align: center;
 }
 
 a {
   text-decoration: none;
   color: #007edf;
   text-shadow: none;
-
+  font: 14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   transition: color 0.5s ease;
   transition: text-shadow 0.5s ease;
   -webkit-transition: color 0.5s ease;
@@ -300,10 +308,11 @@ Full-Width Styles
 
 #project_title {
   margin: 0;
+  text-shadow: 4px 3px 0px #000, 9px 8px 0px rgba(0,0,0,0.15);
   color: #fff;
   font-size: 42px;
   font-weight: 700;
-  text-shadow: #111 0px 0px 10px;
+  
 }
 
 #project_tagline {
@@ -312,6 +321,7 @@ Full-Width Styles
   font-weight: 300;
   background: none;
   text-shadow: #111 0px 0px 10px;
+  margin-top: -5px;
 }
 
 #downloads {
